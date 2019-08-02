@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-24T15:51:14-03:00
+
+====== Languages and Cultural Inspirations ======
+
+Reference for real world languages and cultures
+
+* Ezor (Common) = English/Portuguese - https://www.lexico.com/en/ / https://www.linguee.com.br/
+* Zwergg (Dwarvish) = German - https://www.dict.cc/?l=e
+* Teanga (Elvish) = Irish - https://www.focloir.ie/ ((Ulster Pronunciation))
+
