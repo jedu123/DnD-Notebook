@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-15T13:35:40-03:00
+
+====== Clans and Racial Groups ======
+
+	1. Dragonblooded
+		a. Dragonborn
+
+	2. [[+Dwarvenkind|Dwarvenkind]] (Zwerg)
+		a. Arctic Dwarf (Arktin)
+		b. Hill Dwarf (Hugen)
+		c. Mountain Dwarf (Bergen)
+	
+	3. [[+Elvenkind|Elvenkind]]
+		a. Elf
+
+	4. Small Folk
+		a. Halfling
+
+	5. Nomads
+		a. Half-Elf
+		b. Half-Orc
+
+	6. Mankind
+		a. Human
+	
+	7. Duskborn
+		a. Drow
+		b. Tieflings
+	
+	8. Warring Hordes
+
+	9. Mountainfolk
+
+	10. Travelers
+
+	11. Fey
+
+	12. Sylvan
+
+	14. Free Folk
+
