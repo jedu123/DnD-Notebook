@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-14T15:49:24-03:00
+
+====== Aerin ======
+
+1. [[+The World|The World]]
+2. [[+Kingdoms and Places|Kingdoms and Places]]
+3. [[+Clans and Racial Groups|Clans and Racial Groups]]
+	a. [[+Races and Subraces|Races and Subraces]]
+4. [[+Languages and Cultural Inspirations|Languages and Cultural Inspirations]]
+5. [[+Mysticism, Magic and the Supernatural|Mysticism, Magic and the Supernatural]]
+6. [[+Factions and Organizations|Factions and Organizations]]
+7. Notable Persons, Perils and Events
+8. Legends
+ 
+
