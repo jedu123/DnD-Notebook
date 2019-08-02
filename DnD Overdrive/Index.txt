@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-08T16:28:34-03:00
+
+====== Aerinian Index ======
+
+The Aerinian Index is a commodity made by myself with no profitable intent, to help me and my players to have quick access to information. Use at your own risk, and always take everything with a pinch of salt and if you change anything, please change the name of the archive and credit The Degenerate Crafthouse.
+
+1. [[+Aerin|Aerin]]
+2. [[+Classes|Classes]]
+3. [[+Backgrounds|Backgrounds]]
+4. Feats
+5. [[+Artifacts|Artifacts]]
+6. [[+Sources|Sources]]
