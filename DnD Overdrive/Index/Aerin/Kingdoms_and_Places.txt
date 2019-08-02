@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-14T15:57:26-03:00
+
+====== Kingdoms and Places ======
+
+1. [[+Etrin|Etrin]] (Mankind)
+2. [[+Dantarrim|Dantarrim]] (Dwarvenkind and Mountainfolk)
+3. [[+Great Marshes|Great Marshes]] (Mountainfolk, Nomads and Duskborn)
+4. [[+Llaie|Llaie]] (Elvenkind, Sylvan)
+5. [[+Durgora|Durgora]] (Smallfolk)
+6. [[+Yshan|Yshan]] (Elvenkind, Fey)
+7. [[+Kingdom of Lars|Kingdom of Lars]] (Mankind)
+8. [[+Q'Rah|Q'Rah]] (Warring Hordes)
+9. [[+Yujur|Yujur]] (Mankind)
+10. [[+Faie|Faie]] (Fey, Sylvan)
+11. [[+Dunokan|Dunokan]] (Dunokian, Travelers and Nomads)
+12. [[+Noctrad|Noctrad]] (Duskborn, Travelers and Nomads)
+13. [[+Ar'ktar|Ar'ktar]] (Dragonblooded)
+14. [[+Ishtar|Ishtar]] (Duskborn)
+15. [[+Gijur|Gijur]] (Smallfolk, Dwarvenkind)
+16. [[+Alar Empire|Alar Empire]] (Everyone)
+17. Arkan (Mankind)
+18. Padaro (Free Folks, Travelers and Nomads)
+19. The Bastion (Travelers and Nomads) 
+20. Titan Spine (Mountainfolk and Nomads)
+21. Sea of Blades (???)
+22. Sleeping Seas
+	a. Northern Free Islands (Sea Elves)
+	b. Coralrealm and the Stony Silence (Merfolk)
+	c. Southern Free Islands (Free Folk)
+	d. Aryujur, The Ship Graveyard (Here Be Monsters)
+	e. Achaea and the Black Coast (Tritons)
+
+
+
