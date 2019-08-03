@@ -17,6 +17,7 @@ Creation-Date: 2019-01-15T13:35:40-03:00
 
 	4. Small Folk
 		a. Halfling
+		b. Gnome
 
 	5. Nomads
 		a. Half-Elf
