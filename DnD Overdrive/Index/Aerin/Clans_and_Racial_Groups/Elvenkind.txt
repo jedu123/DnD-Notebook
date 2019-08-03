@@ -2,7 +2,10 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-07-31T15:36:31-03:00
 
-====== Elvenkind ======
-Criado quarta-feira 31 julho 2019
+====== Elvenkind (Síofra) ======
 
-, os elfos de lá são desconfiados e não apresentam mais a alegria que mostravam antes. Mesmo reclusos eles não proíbem que outras raças se instalem próximos a Muralha Verde.
+Elves are a magical people of otherworldly grace, living in the world but not entirely part of it. They live in places of ethereal beauty, in the midst of ancient forests or in silvery spires, where music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry.
+
+Their unearthly grace and fine features sometimes appear as an alien beauty to anyone who lays its eyes on them. They are slightly taller than humans on average, ranging from 1,80m to 2,20m. They are more slender than humans, usually weighing  around 60kg. There is no default elven coloration, but usually they tend to have pastel and light coloration both on skin and hair.
+
+Elves can live well over a thousand years, giving them a broad perspective on events. They are curious and proud, tending to remain aloof when dealing with "younger" races. This way of life changes the second they put their mind on something, becoming relentless pursuers of perfection. It is easy to get on their good side, but slow to become a real friend, or enemy. Elves are known for their capriciousness and flexibility.
