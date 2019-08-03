@@ -14,4 +14,6 @@ Creation-Date: 2019-07-31T15:18:04-03:00
 	* Added races to Civilizations
 	* Added Races and Subraces
 	* Added Dwarf to R&Sr
+	* Elvenkind finished
+	* Added Elf to R&Sr
 
