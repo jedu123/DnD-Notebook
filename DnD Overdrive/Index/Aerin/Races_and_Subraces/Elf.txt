@@ -57,8 +57,6 @@ A fiáin has sharpened senses, a strong intuition and a powerful connection to n
 == Ability Score Increase ==
 Wis+1
 
- 
-
 == Fiáin Weapon Training ==
 You have proficiency with daggers, spears, shortswords, and shortbows.
 
