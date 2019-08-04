@@ -4,23 +4,26 @@ Creation-Date: 2019-07-25T14:03:50-03:00
 
 ====== Dwarvenkind (Zwerg) ======
 
-The dwarves are a loyal, stubborn, and friendly people, valuing honesty and honor above all things. When a dwarf gives their word they can't go back and, thanks to a special bless/curse imposed by Bawtan, they are unnable to lie.
+The dwarves are loyal, stubborn, and friendly people, valuing honesty and honor above all things. When a dwarf gives their word they can't go back and, thanks to a special bless/curse imposed by Bawtan, they are unable to lie.
 
-Bold, resilient and hard, the dwarvenkin are renowned for their skills as artisans and warriors. They live with the weight of their deeds on their backs, carrying them as names. 
+Bold, resilient and hard, the dwarvenkin are renowned for their skills as artisans and warriors. They live with the weight of their deeds on their backs, carrying them as names.
 
-A dwarf can height close to 1,5m and weigth around 80kg. Their legs are short, but powerful, and their arms are strong, ending in strong and large hands. Their skins have tones of earth, and their hair is usually black, gray or brown, but sometimes there are dwarves with red or metallic. 
+A dwarf can height close to 1,5m and weigh around 80kg. Their legs are short but powerful, and their arms are strong, ending in strong and large hands. Their skins have tones of earth, and their hair is usually black, gray or brown, but sometimes there are dwarves with red or metallic.
 
 A dwarvenkin can live up to 400 years old and can easily remember things that happened before their first century of life. It is not unheard of dwarves that held a grudge against generations of the same family, or that carried a friendship from father to son for centuries.
 
-The dwarven speak Zwergg, a language full of hard consonants and guttural sounds, and those characteristics spill over into whatever other languages a dwarf might speak. 
+The dwarven speak Zwergg, a language full of hard consonants and guttural sounds, and those characteristics spill over into whatever other languages a dwarf might speak.
+
 
 ===== Dwarf Names =====
 
 A dwarf's name is composed of three parts: a social name, a clan name, and a deed name. The first is given by their parents, usually based on portents or dwarven history, a sign of the bond between the newborn and the Great Clan.
 
-The second granted by a clan elder, per tradition. Every proper dwarven name has been used and reused down through the generations. A dwarf's name belongs to the clan, not to the individual. A dwarf who misuses or brings shame to a clan name is stripped of the name and forbidden by law to use any dwarven name in its place.
+The second granted by a clan elder, per tradition. Every proper dwarven name has been used and reused down through the generations. A dwarf name belongs to the clan, not to the individual. A dwarf who misuses or brings shame to a clan name is stripped of the name and forbidden by law to use any dwarven name in its place.
 
 Last, but not least, is the deed name, a name given by their peers, for things that the dwarf have done, akin to a title. Since they can't lie, this name is used as a brand on the dwarf's personal history.
+
+
 
 
 {{.\23550836_716920511836186_6209079681406684564_o.jpg?width=400}}

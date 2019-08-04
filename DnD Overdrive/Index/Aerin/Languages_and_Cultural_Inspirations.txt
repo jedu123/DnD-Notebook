@@ -4,9 +4,13 @@ Creation-Date: 2019-01-24T15:51:14-03:00
 
 ====== Languages and Cultural Inspirations ======
 
-Reference for real world languages and cultures
+Reference for languages and cultures
+
+===== Languages =====
 
 * Ezor (Common) = English/Portuguese - https://www.lexico.com/en/ / https://www.linguee.com.br/
 * Zwergg (Dwarvish) = German - https://www.dict.cc/?l=e
 * Teanga (Elvish) = Irish - https://www.focloir.ie/ ((Ulster Pronunciation))
 
+===== Cultures =====
+* Etrin: Late Renaissance Germany
