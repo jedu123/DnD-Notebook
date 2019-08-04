@@ -21,3 +21,5 @@ Creation-Date: 2019-07-31T15:18:04-03:00
 	* Overall correction
 	* Added Elf Time to Elvenkind
 	* Dwarf corrected to Racial Stat Block default format
+	* Finished Elf stat block
+

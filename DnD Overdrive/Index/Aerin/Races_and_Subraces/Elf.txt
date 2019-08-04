@@ -37,13 +37,13 @@ The elven speak Teanga, a fluid, and a rich language, with subtle intonations an
 ==== Subraces ====
 
 === Uasal (High Elf) ===
-As a uasal, you have a keen mind and a mastery of at least the basics of magic and combat. You believe to be superior to every other race, even to other elves, and likes to revel in your hedonistic lifestyle. You are usually friendly to them but sometimes it's hard to not act as they are children or especially smart animals. The uasal lives majorly in Yshan, the Silver City, but can be found all across the continent.
+As a uasal, you have a keen mind and a mastery of at least the basics of magic and combat. You believe to be superior to every other race thanks to your connection with the Animi, even to other elves, and likes to revel in your hedonistic lifestyle. You are usually friendly to them but sometimes it's hard to not act as they are children or especially smart animals. The uasal lives majorly in Yshan, the Silver City, but can be found all across the continent.
 
 == Ability Score Increase ==
 Int+1
 
-== Elven Weapon Training ==
-You have proficiency with the longsword, shortsword, shortbow.
+== Uasal Weapon Training ==
+You have proficiency with longswords, shortswords, shortbows, and longbows.
 
 == Cantrip ==
 You know one cant rip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
@@ -52,12 +52,37 @@ You know one cant rip of your choice from the wizard spell list. Intelligence is
 You can speak, read, and write one extra language of your choice
 
 === Fiáin (Wood Elf) ===
-A fiáin has sharpened senses and a strong intuition. Your fleet feet can carry you quickly and stealthily through the forests. After the losses during the Runnarian Invasion, your kind became reclusive, living around the giant Baobab, Ysa, and tending to the forest that protects them. The fiáin can be found inside Llaie unless some strong reason moves one to the life of adventuring.
+A fiáin has sharpened senses, a strong intuition and a powerful connection to nature. Your fleet feet can carry you quickly and stealthily through the forests. After the losses during the Runnarian Invasion, your kind became reclusive, living around the giant baobab, Ysa, and tending to the forest that protects them. The fiáin can be found inside Llaie unless some strong reason moves one to the life of adventuring.
 
 == Ability Score Increase ==
-Str+2
+Wis+1
 
+ 
 
+== Fiáin Weapon Training ==
+You have proficiency with daggers, spears, shortswords, and shortbows.
 
+== Fleet of Foot ==
+You base walking speed increases to 35 feet.
 
+== Mask of the Wild ==
+You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena
+
+=== Drow ===
+Descended from a dissident group of uasal that marched alongside Jari, Goddess of Undeath, the drow were cursed to suffer when under sunlight by Laoiche, Goddess of Sky. They are now the proud race protected by Balan Aiséirithe, ruling over the sunless Ishtar.
+
+== Ability Score Increase ==
+Cha+1
+
+== Drow Weapon Training ==
+You have proficiency with rapiers, shortswords, and hand crossbows.
+
+== Superior Darkvision ==
+Your darkvision has a radius of 120 feet.
+
+== Sunlight Sesitivity ==
+You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+
+== Drow Magic ==
+You know the //Dancing Lights// cantrip. When you reach 3rd level, you can cast the //Faerie Fire// spell once per day. When you reach 5th level, you can also cast the //Darkness// spell once per day. Charisma is your spellcasting ability for these spells.
 
