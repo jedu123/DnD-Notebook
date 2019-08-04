@@ -1,0 +1,63 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-04T14:17:18-03:00
+
+====== Elf ======
+
+==== Ability Score Increase ====
+Dex+2
+
+==== Age ====
+An elf typically claims adulthood and an adult name around the age of 100 and can live to be 1500 years old.
+
+==== Alignment ====
+Elves love freedom, variety, and selfexpression, so they lean strongly toward the gentler aspects of chaos.
+
+==== Size ====
+They are slightly taller than humans on average, ranging from 1,80m to 2,20m. They are more slender than humans, usually weighing around 60kg. Your size is Medium.
+
+==== Speed ====
+Your base walking speed is 30 feet. 
+
+==== Darkvision ====
+Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+==== Keen Senses ====
+Elves contemplate the world around them constantly, seeking illumination or just to enjoy nature. You have proficiency in the Perception skill.
+
+==== Fey Ancestry ====
+With their roots within the Feywild came a powerful change on the elven mind. You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+
+==== Támh ====
+Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Ezor word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+
+==== Languages ====
+The elven speak Teanga, a fluid, and a rich language, with subtle intonations and intricate grammar. Every elf is taught how to speak, read, and write in Teanga and Ezor.
+
+==== Subraces ====
+
+=== Uasal (High Elf) ===
+As a uasal, you have a keen mind and a mastery of at least the basics of magic and combat. You believe to be superior to every other race, even to other elves, and likes to revel in your hedonistic lifestyle. You are usually friendly to them but sometimes it's hard to not act as they are children or especially smart animals. The uasal lives majorly in Yshan, the Silver City, but can be found all across the continent.
+
+== Ability Score Increase ==
+Int+1
+
+== Elven Weapon Training ==
+You have proficiency with the longsword, shortsword, shortbow.
+
+== Cantrip ==
+You know one cant rip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+
+== Extra Language ==
+You can speak, read, and write one extra language of your choice
+
+=== Fiáin (Wood Elf) ===
+A fiáin has sharpened senses and a strong intuition. Your fleet feet can carry you quickly and stealthily through the forests. After the losses during the Runnarian Invasion, your kind became reclusive, living around the giant Baobab, Ysa, and tending to the forest that protects them. The fiáin can be found inside Llaie unless some strong reason moves one to the life of adventuring.
+
+== Ability Score Increase ==
+Str+2
+
+
+
+
+

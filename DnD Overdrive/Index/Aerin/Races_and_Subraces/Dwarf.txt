@@ -5,7 +5,7 @@ Creation-Date: 2019-08-02T19:52:45-03:00
 ====== Dwarf ======
 
 ==== Ability Score Increase ====
-Constitution+2
+Con+2
 
 ==== Age ====
 Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.
@@ -20,26 +20,29 @@ Dwarves stand between 1.20 and 1.50 meters tall and are average about 80 kilogra
 Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
 
 ==== Darkvision ====
-You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+Used to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
 ==== Dwarven Resilience ====
-You have advantage on saving throws against poison, and you have resistance against poison damage.
+The dwarven are stubborn people even in their innards. You have advantage on saving throws against poison and diseases, and you have resistance against poison damage.
 
 ==== Dwarven Combat Training ====
-You have proficiency with the battleaxe, handaxe, sling, light hammer and glaive.
+A practical race, dwarves can use weapons that resemble their tools. You have proficiency with the battleaxe, handaxe, sling, light hammer and quarterstaff.
 
 ==== Tool Proficiency ====
-You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.
+Every dwarf knows a thing or two about handcrafts. You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.
 
 ==== Stonecunning ====
-Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+Living on tradition is a good way to understand part of the world around you. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
 ==== Written in Stone ====
-You are unable to lie, even under the effects of mind control spells. This effect does not apply to oaths and promises.
+Bawtan doesn't lie, and so his people. You are unable to lie, even under the effects of mind control spells. This effect does not apply to oaths and promises.
+
+==== Languages ====
+The dwarven speak Zwergg, a language full of hard consonants and guttural sounds, and those characteristics spill over into whatever other languages a dwarf might speak. You can speak, and if literate, read, and write Ezor and Zwergg.
 
 ==== Subraces ====
 
-=== Hill Dwarf (Hugen) ===
+=== Hugen (Hill Dwarf) ===
 As a hugen, you have keen senses, deep intuition, and remarkable resilience. They are the most common subrace in Gijur and the inhabitants of the valley regions in Dantarrim. 
 
 == Ability Score Increase ==
@@ -48,7 +51,7 @@ Wis+1
 == Dwarven Toughness ==
 Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
 
-=== Mountain Dwarf (Bergen) ===
+=== Bergen (Mountain Dwarf) ===
 As a bergen, you're strong and hardy, accustomed to a difficult life in rugged terrain. You're probably on the tall side (for a dwarf) and tend toward lighter coloration. This is the most common kind of dwarf found in Dantarrim.
 
 == Ability Score Increase ==

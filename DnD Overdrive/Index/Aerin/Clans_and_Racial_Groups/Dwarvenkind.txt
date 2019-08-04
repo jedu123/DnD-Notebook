@@ -12,9 +12,6 @@ A dwarf can height close to 1,5m and weigh around 80kg. Their legs are short but
 
 A dwarvenkin can live up to 400 years old and can easily remember things that happened before their first century of life. It is not unheard of dwarves that held a grudge against generations of the same family, or that carried a friendship from father to son for centuries.
 
-The dwarven speak Zwergg, a language full of hard consonants and guttural sounds, and those characteristics spill over into whatever other languages a dwarf might speak.
-
-
 ===== Dwarf Names =====
 
 A dwarf's name is composed of three parts: a social name, a clan name, and a deed name. The first is given by their parents, usually based on portents or dwarven history, a sign of the bond between the newborn and the Great Clan.
