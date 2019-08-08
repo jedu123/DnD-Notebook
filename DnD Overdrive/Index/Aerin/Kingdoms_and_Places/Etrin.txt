@@ -19,13 +19,13 @@ The Kingdom of Etrin is a peninsular country, isolated by the sea around and the
 * **Borders:** Dantarim (N), The Southern Free Islands (E, S, W)
 
 ===== History =====
-In the past, the land known as Purpur Fields was ruled by The Soul Covenant, a council of non-human witches that conquered the local clans and used them like cattle to their rituals and slaves to their domains. Rising against the Covenant was almost impossible until Heinzbarn Blutmeister, an apothecary serving under the Witch Queen, found an old ritualistic scroll that contained The Blood Pact, the same spell used by the Witch Queen to bind herself to the other witches. 
+In the past, the land known as Purpur Fields was ruled by The Soul Covenant, a coven of non-human witches that conquered the local clans and used them like cattle to their rituals and slaves to their domains. Rising against the Covenant was almost impossible until Heinzbarn Blutmeister, an apothecary serving under the Witch Queen, found an old ritualistic scroll that contained The Blood Pact, the same spell used by the Witch Queen to bind herself to the other witches. 
 
 Understanding this as his only chance to free his people, Blutmeister found allies in four other clans that were willing to fight against their tyrants: the warlord Eliah Norgrand, the runemaster Helen Ravenholdt, the smuggler Vincent Etar and the pirate brothers Edward and Francis Malkadir. After the ritual's end, their bodies were changed, they became resistant to the witches' mind control and hexes, while they became able to penetrate the enemies wards. 
 
 After ten years of war and revolution, they took down Bloodboiler Avanca, the Witch Queen, and renamed Purpur Fields to the Free Land of Purpur. After five more years they united the Free Land to become the Kingdom of Etrin, named after a legendary beast that served Aerin, and Blutmeister was chosen by his peers as the First King.
 
-Seven hundred years later Aerin was invaded by the Children of Runaar, an interplanar threat that forced the kingdoms of the continent to work together. Etrin's efforts were vital to the war, lending weapons and soldiers to spearhead the battle operations that led to the aerinian victory.
+Around seven hundred years later Aerin was invaded by the Children of Runaar, an interplanar threat that forced the kingdoms of the continent to work together. Etrin's efforts were vital to the war, lending weapons and soldiers to spearhead the battle operations that led to the aerinian victory.
 
 ===== Geography and Demography =====
 Etrin has a lot of arable land and two major rivers (Moselle and Lech) that spring in the mountains on the northern border. The weather is fair and there are four seasons of 3 months each.
@@ -48,7 +48,6 @@ And in the central region of the kingdom is their capital, Blutgart. The fortifi
 
 ===== Culture =====
 Etrin is a kingdom heavily influenced by their geographical isolation, the connections with the Church of Aerin, and their past conflicts with The Soul Covenant. Suspicious of foreigners, non-humans and spellcasters, living in close-knitted communities, the etrinian commoner lives to improve where they live and their quality of life. Life on Etrin is not too different from any other kingdom, the commoners work enough to supply for their homes and usually trade part of their crop and products on their villages. If their production yields more than necessary they go to free traders and negotiate for tools or anything they want or need. On the past, an outsider wouldn't be so welcome. Now, thanks to the opening of borders and the presence of more adventurers on the kingdom, they will provide shelter and the minimum to survive. Foreigners and non-humans are treated with a strange mix of fear and respect, etrinian villagers are slow to trust but once the newcomer is deemed worthy it will have a new place to call home.
-
 
 ==== Politics ====
 Etrin is ruled, managed and protected by the local noble houses and their allies. Once a feudal country, with the five founding houses as their lords, they evolved to a constitutional monarchy were the vassals became members of the executive power. As a constitutional monarchy they are divided into four powers: Legislature, Executive, Judiciary, and Moderator.
@@ -77,7 +76,9 @@ The Hunters locate the mages and take them to the closest Academy of Sanction, t
 
 After six months the shards are removed and regrafted on the hands. After this procedure the mages are exposed to a cracked witchstone, that is constantly leaking ether, while rituals to make their bodies accept the, now unstable, witchstones inside them and to fuse gold and silver onto their shards, shaping them to what will turn to be the Brand. This extremely painful process is repeated daily during a year and a half, and any mage that becomes unstable during this step is sent to a Cage Lab to fuel Etrin's most powerful artifacts or is executed. The survivors are taken to the last step, two years of indoctrination and training. There, the weakest will be brainwashed into an emotionless tool of power and magic and the strongest and most loyal will be prepared to become officials on the army. The whole process is kept partially in secret, the only information the commoners have about it are rumors.
 
-==== Lifestyle ====
+==== The Church of Aerin and Etrin ====
+Blutgart's central plaza has some of the most important buildings on the kingdom, between them is The Cathedral of Aerin. The building has a welcoming aura, with stained glass windows picturing some moments of the goddess glory and beautiful ivory walls. The cathedral is tended by both the clergy and the House of Carol, the lineage that comes from the first to hold the title of Archbishop. They try to teach the common people to embrace more than their communities and to always treat the outsider as part of the group, with little success until the last decade. Thanks to some mishappenings in the past, the Council now holds no power over the church's decisions and can't arrest or touch someone who is inside aerinian temples.
+
 
 ===== Factions, Places and Persons of Interest =====
 
