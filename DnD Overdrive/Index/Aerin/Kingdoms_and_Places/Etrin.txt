@@ -41,7 +41,7 @@ On the western border, among the rock beaches sits Ravenest, where the secretive
 
 Fort Norgrand is where all members of the etrinian military come from. Watching the eastern border, the fortress towers over the rocky beaches and farms. During The Sieve, the first year that suitors that want to join the military, the soldiers go through a rash mental and physical training at Fort Norgrand, where the officers root out the weak of mind and heart. After that those who didn't surrender will be sorted in the functions of the military, be it the Army, the Guard, the Navy, or the Hunters, and receive a more specific drill.
 
-On the southern border rests Gran Port, Malkadir's domain. Gran Port is not only, as the name implies, Etrin's naval trade hub but also a beacon of free speech in the kingdom. Due to the constant contact with other cultures and ideas, Gran Port became a haven to non-sanctioned mages, druids and any non-human beings. The Malkadir Inquisition is the only cadre to work in broad daylight, helping the Guard and Hunters around the town and hiring adventurers and mercenaries to help.
+On the southern border rests Gran Port, Malkadir's domain. Gran Port is not only, as the name implies, Etrin's naval trade hub but also a beacon of free speech in the kingdom. Due to the constant contact with other cultures and ideas, Gran Port became a haven to non-sanctioned mages, druids and any non-human beings. The city is famous for their Open Market, a place where free traders from land and sea can come to negotiate their products and exchange information. The Malkadir Inquisition is the only cadre to work in broad daylight, helping the Guard and Hunters around the town and hiring adventurers and mercenaries to help.
 
 And in the central region of the kingdom is their capital, Blutgart. The fortified city is a perfect circle divided into three areas, the core, the middle and the outer rings. The core, with the central plaza and governmental buildings; the middle ring, where most of the commerce and noble houses are; and the outer ring, the residential area for commoners and travelers. From any point of the city, you can see the Blood Throne and the Royal Academy of Sanction. One of the most remarkable things is that no white flowers grow in Blutgart, except in the royal palace. All others have a strange, blood crimson tint.
 
@@ -65,7 +65,7 @@ Each Inquisition has a different focus and modus operandi. The Blutmeister Inqui
 
 The Ravenholdt has essentially two Cadres, the Ravenholdt Inquisition and the Talons. The Talons are led by Edgar Ravenholdt, the Ravenholdt firstborn, and are focused on securing dangerous or ancient artifacts and blueprints, their containment and to protect both the acquisitions and the common populace from them. While the Talons work with obtaining artifacts and engines, the Ravenholdt Inquisition has three duties: maintenance of the Cage Labs, secret dungeons where the arcane power of dangerous and non-sanctioned mages is drained to fuel the most powerful etrinian artifacts, development of new methods to turn the Sanctioning a more efficient process, and to stabilize and purify the witchstones, giant subterranean monoliths that detect magic.
 
-Etar has not an Inquisition since Lord D'Etar death, but an open task force that works as the regent personal intelligence. Lastly, the Malkadir Inquisition. They are led by Aaron and Ada Malkadir, Heinz adoptive daughter and his brother. Their Cadre replaced the Hunters in the city, dealing directly and openly with threats against their town. The commoners don't know that they are actually an Inquisition Cadre and just assume the Malkadirs like to protect their turf personally.
+Etar has not an Inquisition since Lord D'Etar death, but an open task force that works as the regent personal intelligence. Lastly, the Malkadir Inquisition. They are led by Aaron and Ada Malkadir, Heinz adoptive daughter and his brother. Their Cadre replaced the Hunters in the city, taking care of what comes through the port and dealing directly and openly with supernatural threats against their town. The commoners don't know that they are actually an Inquisition Cadre and just assume the Malkadirs like to protect their turf personally. The Malkadir has one of the smallest Cadres, therefore their members usually rely on their versatility and wits. Sometimes they are going to post a series of missions and tasks at the House of Arms or the Protectors local quarters, to prospect for potential members and to relieve part of their load.
 
 ==== The Sanctioning ====
 A trail of gold and silver etched on the face and hands, that glows whenever the power surges through the caster, is the Brand of a Sanctioned Arcanist. The Sanctioning is a ritual as old as Etrin, being created after a simple dilemma: how they were going to know if a caster was an ally or a member of the Soul Covenant trying to infiltrate their kingdom? How could they know if a new wizard or sorcerer would not turn to the Covenant that once enslaved them? The Ravenholdt designed a ritual named The Sanction. To understand the Sanction it must be known about the witchstones.
@@ -79,8 +79,17 @@ After six months the shards are removed and regrafted on the hands. After this p
 ==== The Church of Aerin and Etrin ====
 Blutgart's central plaza has some of the most important buildings on the kingdom, between them is The Cathedral of Aerin. The building has a welcoming aura, with stained glass windows picturing some of the greatest moments of the goddess glory and beautiful ivory walls. The cathedral is tended by both the clergy and the House of Carol, the lineage that comes from the first to hold the title of Archbishop. They try to teach the common people to embrace more than their communities and to always treat the outsider as part of the group, with little success until the last decade. Thanks to some mishappenings in the past, the Council now holds no power over the church's decisions and can't arrest or touch someone who is inside aerinian temples.
 
+==== The Etrinian Army ====
 
-===== Factions, Places and Persons of Interest =====
+
+===== Groups, Places and Persons of Interest =====
+
+==== Groups ====
+Besides the Noble Houses and the Inquisition, there are other major powers in the kingdom. The Protectors are an adventuring guild created by Aramir Phan of Snir and Royce of the South on Arkan that expanded to Etrin, pledging themselves to put the safety of the common populace first and to not harm the innocent. For these tenants, holding their signet is usually enough to make the commoners treat an adventurer better than they would treat any stranger or non-human. The Embassy is a joint effort from Queen Victoria and a small group of adventurers and merchants, to establish a place where travelers could feel safe and to fight for a more welcoming Etrin. The Embassy is managed by Baldinar Avvan, a young drow that was born and raised on Blutgart, and Ana Carol, the second on the line of succession of House Carol.
+
+==== Places ====
+
+==== Persons of Interest ====
 
 
 ===== Legends and Rumors =====
