@@ -13,7 +13,9 @@ Creation-Date: 2019-01-15T13:35:40-03:00
 		c. Mountain Dwarf (Bergen)
 	
 	3. [[+Elvenkind|Elvenkind]]
-		a. Elf
+		a. High Elf (Uasal)
+		b. Wood Elf (Fiáin)
+		c. Drow
 
 	4. Small Folk
 		a. Halfling

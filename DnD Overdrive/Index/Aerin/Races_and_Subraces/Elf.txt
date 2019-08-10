@@ -84,3 +84,17 @@ You have disadvantage on attack rolls and on Wisdom (Perception) checks that rel
 == Drow Magic ==
 You know the //Dancing Lights// cantrip. When you reach 3rd level, you can cast the //Faerie Fire// spell once per day. When you reach 5th level, you can also cast the //Darkness// spell once per day. Charisma is your spellcasting ability for these spells.
 
+=== Uisceach (Sea Elf) ===
+The uisceach are stubborn, ingenious and resilient. Your adapted fingers allow you to swim faster, and your gills take out the need for air. As the weaker faction in the War for the Trident, the uisceach were enslaved by the tritons and merfolk. Those who escaped went to the Free Isles, trying to turn the tide in favor of their new homes and the still captured friends.
+
+== Ability Score Increase ==
+Con+1
+
+== Webbed Fingers ==
+You are able to swim at your normal movement speed instead of half speed, and you have Expertise on all swim checks instead of your normal Atheltics proficiency.
+
+== Gills ==
+You can breath underwater.
+
+== Uisceach Weapon Training ==
+You are proficient with tridents, spears, and nets.
