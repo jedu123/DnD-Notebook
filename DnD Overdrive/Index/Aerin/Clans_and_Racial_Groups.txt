@@ -16,6 +16,7 @@ Creation-Date: 2019-01-15T13:35:40-03:00
 		a. High Elf (Uasal)
 		b. Wood Elf (Fiáin)
 		c. Drow
+		d. Sea Elf (Uisceach)
 
 	4. Small Folk
 		a. Halfling
