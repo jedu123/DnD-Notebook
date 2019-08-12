@@ -5,5 +5,7 @@ Creation-Date: 2019-08-11T16:56:43-03:00
 ====== Classes ======
 
 1. [[+Barbarian|Barbarian]]
+	a. Path of the Berserker
+	b. Path of the Totem Warrior
 2. Bard
 
