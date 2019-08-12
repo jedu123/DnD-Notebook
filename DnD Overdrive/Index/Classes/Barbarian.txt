@@ -81,8 +81,8 @@ You walk on an eternal razor's edge, honing your senses to predict danger. You h
 
 ==== Primal Path ====
 What shapes your rage? Choose your Primal Path to receive its benefits.
-	* [[+Path of the Berserker|Path of the Berserker]]
-	* Path of the Totem Warrior
+	* [[+Path of the Berserker|Path of the Berserker:]] For some barbarians, rage is a means to an end —that end being violence.
+	* [[+Path of the Totem Warrior|Path of the Totem Warrior:]] In battle your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.
 
 ==== Ability Score Improvement ====
 The path to greatness is hard but rewarding. You can gain a feat or increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
