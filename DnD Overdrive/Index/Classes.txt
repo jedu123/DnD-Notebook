@@ -7,5 +7,18 @@ Creation-Date: 2019-08-11T16:56:43-03:00
 1. [[+Barbarian|Barbarian]]
 	a. [[Classes:Barbarian:Path of the Berserker|Path of the Berserker]]
 	b. [[Classes:Barbarian:Path of the Totem Warrior|Path of the Totem Warrior]]
-2. Bard
+2. [[+Bard|Bard]]
+	a. [[Classes:Bard:College of Lore|College of Lore]]
+	b. [[Classes:Bard:College of Valor|College of Valor]]
+3. Cleric
+4. Druid
+5. Fighter
+6. Monk
+7. Paladin
+8. Ranger
+9. Rogue
+10. Sorcerer
+11. Warlock
+12. Wizard
+
 
