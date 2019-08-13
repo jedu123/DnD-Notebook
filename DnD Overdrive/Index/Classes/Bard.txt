@@ -1,0 +1,126 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-12T20:41:23-03:00
+
+====== Bard ======
+Whether scholar, skald, or scoundrel, a bard weaves magic through words and music to inspire allies, demoralize foes, manipulate minds, create illusions, and even heal wounds. ln Aerin, words and music are not just vibrations of air, but vocalizations with power all their own. The bard is a master of song, speech, and the magic they contain. Bards say that the multiverse was spoken into existence, that the words of an almighty being had given it shape, and that echoes of these primordial Words of Creation still resound throughout the cosmos. The music of bards is an attempt to snatch and harness those echoes, subtly woven into their spells and powers.
+
+The greatest strength of bards is their sheer versatility. Many bards prefer to stick to the sidelines in combat, using their magic to inspire their allies and hinder their foes from a distance. But bards are capable of defending themselves in melee if necessary, using their magic to bolster their swords and armor. Their spells lean toward charms and illusions rather than blatantly destructive spells. They have  wide-ranging knowledge of many subjects and a natural aptitude that lets them do almost anything well. Bards become masters of the talents they set their minds to perfecting, from musical performance to esoteric knowledge.
+
+True bards are not common in the world. Not every minstrel singing in a tavern or jester cavorting in a royal court is a bard. Discovering the magic hidden in music requires hard study and some measure of natural talent that most troubadours and jongleurs lack. It can be hard to spot the difference between these performers and true bards, though. A bard's life is spent wandering across the land gathering lore, telling stories, and living on the gratitude of audiences, much like any other entertainer. But a depth of knowledge, a level of musical skill, and a touch of magic set bards apart from their fellows.
+
+===== Creating a Bard =====
+Bards thrive on stories, whether those stories are true or not. Your character's background and motivations are not as important as the stories that he or she tells about them. Perhaps you had a secure and mundane childhood. There's no good story to be told about that, so you might paint yourself as an orphan raised by a hag in a dismal swamp. Or your childhood might be worthy of a story. Some bards acquire their magical music through extraordinary means, including the inspiration of fey or other supernatural creatures. Did you serve an apprenticeship, studying under a master, following the more experienced bard until you were ready to strike out on your own? Or did you attend a college where you studied bardic lore and practiced your musical magic? Perhaps you were a young runaway or orphan befriended by a wandering bard who became your mentor. Or you might have been a spoiled noble child tutored by a master. Perhaps you stumbled into the clutches of a hag, making a bargain for a musical gift in addition to your life and freedom, but at what cost?
+
+Only rarely do bards settle in one place for long, and their natural desire to travel — to find new tales to tell, new skills to learn, and new discoveries beyond the horizon—make an adventuring career a natural calling. Every adventure is an opportunity to learn, practice a variety of skills, enter long-forgotten tombs, discover lost works of magic, decipher old tomes, travel to strange places, or encounter exotic creatures. Bards love to accompany heroes to witness their deeds firsthand. A bard who can tell an awe-inspiring story from personal experience earns renown among other bards. Indeed, after telling so many stories about heroes accomplishing mighty deeds, many bards take these themes to heart and assume heroic roles themselves.
+
+Bards are known as extremely charismatic and convincing, with good reflexes and great precision. They usually have training in different arts, be it poetry, music, and dance.
+
+--------------------
+
+===== Class Features =====
+
+==== Hit Points ====
+**Hit Dice: **1d8 per bard level
+**Hit Points at 1st LeveI:** 8 + Con. Mod 
+**Hit Points at Higher LeveIs:** 1d8 (or 5) +Con. Mod 
+
+==== Proficiencies ====
+**Armor:** Light armor
+**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
+**Tools:** Three musical instruments of your choice
+**Saving Throws:** Dex and Cha 
+**Skills:** Choose any three
+
+==== Equipment ====
+* (a) a rapier or (b) a longsword or (c) any simple weapon 
+* (a) a diplomat's pack or (b) an entertainer's pack
+* (a) a lute or (b) any other musical instrument 
+* Leather armor and a dagger
+
+== Level	Prof.Bonus	Features								Cantrips		Spells Known		1st	2nd	3rd	4th	5th	6th	7th	8th	9th ==
+
+**1				+2			Spellcasting, Bardic Inspiration (d6)				2					4				2	 -	    -		-	-	    -		-	  -	     -**
+**2				+2			Jack of All Trades, Song of Rest (d6)				2					5				3	 -	    -		-	-	    -		-	  -	     -**
+**3				+2			Bard College, Expertise							2					6				4	 2	    -		-	-	    -		-	  -	     -**
+**4				+2			Ability Score Improvement						3					7				4	 3	    -		-	-	    -		-	  -	     -**
+**5				+3			Bardic Inspiration (d8), Font of Inspiration			3					7				4	 3	    2		-	-	    -		-	  -	     -	**
+**6				+3			Countercharm, College Feature					3					9				4	 3	    3		-	-	    -		-	  -	     -	**
+**7				+3			-												3					10				4	 3	    3		1	-	    -		-	  -	     -		**
+**8				+3			Ability Score Improvement						3					11				4	 3	    3		2	-	    -		-	  -	     -		**
+**9				+4			Song of Rest (d8)								3					12				4	 3	    3		3	1	    -		-	  -	     -		**
+**10				+4			Bardic Inspiration (d10), Expertise, Magical Secrets	4					14				4	 3	    3		3	2	    -		-	  -	     -		**
+**11				+4			-												4					15				4	 3	    3		3	2	    1		-	  -	     -	**
+**12				+4			Ability Score Improvement						4					15				4	 3	    3		3	2	    1		-	  -	     -		**
+**13				+5			Song of Rest (d10)								4					16				4	 3	    3		3	2	    1		1	  -	     -	**
+**14				+5			Magical Secrets, College Feature					4					18				4	 3	    3		3	2	    1		1	  -	     -		**
+**15				+5			Bardic Inspiration (d12)							4					19				4	 3	    3		3	2	    1		1	  1	     -	**
+**16				+5			Ability Score Improvement						4					19				4	 3	    3		3	2	    1		1	  1	     -		**
+**17				+6			Song of Rest (d12)								4					20				4	 3	    3		3	3	   2		1	  1	     -		**
+**18				+6			Magical Secrets									4					22				4	 3	    3		3	3	   1		1	  1	     1		**
+**19				+6			Ability Score Improvement						4					22				4	 3	    3		3	3	   2		1	  1	     1		**
+**20				+6			Superior Inspiration								4					22				4	 3	    3		3	3	   2		2	  1	     1		**
+
+
+==== Spellcasting ====
+You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. To choose your spells refer to [[Index:Spells and Spell Lists:Bard|this link]].
+
+=== Cantrips ===
+You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Bard table.
+
+=== Spell Slots ===
+The table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+=== Spells Known ===
+You know four 1st-level spells of your choice from the hard spell list. The Spells Known column of the Bard table shows when you learn more bard spells of your choice. Each of these spells must be of a level for which you have spell slots, as shown on the table. 
+For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level. Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
+
+=== Spellcasting Ability ===
+Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+
+**Spell Save DC = **8 + Prof. Bonus + Cha
+**Spell Atk Mod **= Prof. Bonus + Cha
+
+=== Ritual Casting ===
+You can cast any bard spell you know as a ritual if that spell has the ritual tag.
+
+=== Spellcasting Focus ===
+You can use a musical instrument as a spellcasting focus for your bard spells.
+
+==== Bardic Inspiration ====
+You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.
+Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
+You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+
+==== Jack of All Trades ====
+You can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
+
+==== Song of rest ====
+You can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest, each of those creatures regains an extra 1d6 hit points if they spend at least one Hit Dice at the end of the short rest.
+
+==== Bard College ====
+Bards form loose associations, which they call colleges, to facilitate their gatherings and preserve their traditions. You delve into the advanced techniques of a bard college of your choice.
+	* [[+College of Lore|College of Lore:]] You know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales.
+	* [[+College of Valor|College of Valor:]] You are a daring skald whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes.
+
+==== Ability Score Improvement ====
+The path to greatness is hard but rewarding. You can gain a feat or increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+==== Expertise ====
+Choose two of your skill prof. Your prof. bonys is doubled for any ability check you make that uses either of the chosen proficiencies.
+
+==== Font of Inspiration ====
+You regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
+
+==== Countercharm ====
+You gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you arc incapacitated or silenced or if you voluntarily end it (no action required).
+
+==== Magical Secrets ====
+You have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.
+
+==== Superior Inspiration ====
+Your muses never give up on you. When you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
+
+
+
+

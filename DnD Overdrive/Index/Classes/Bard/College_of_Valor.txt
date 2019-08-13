@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-12T22:38:59-03:00
+
+====== College of Valor ======
+
+These bards gather in mead halls or around great bonfires to sing the deeds of the mighty, both past and present. They travel the land to witness great events firsthand and to ensure that the memory of those events doesn't pass from the world. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old.
+
+==== Bonus Proficiencies (Lv. 3) ====
+At joining this college and partaking their gatherings, you gain proficiency with medium armor, shields, and martial weapons.
+
+==== Combat Inspiration (Lv. 3) ====
+You learn to inspire others in battle. A creature that has a Bardic Inspiration die from you can roll that die and add the number rolled to a weapon damage roil it just made. Alternatively, when an attack roll is made against the creature, it can use its reaction to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, after seeing the roll but before knowing whether it hits or misses.
+
+==== Extra Attack (Lv. 6) ====
+Strike again, strike true. You can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+==== Battle Magic (Lv. 14) ====
+You have mastered the art of weaving spellcasting and weapon use into a single harmonious act. When you use your action to cast a bard spell, you can make one weapon attack as a bonus action.
+
+
+

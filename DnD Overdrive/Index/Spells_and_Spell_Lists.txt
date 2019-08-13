@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-12T21:45:50-03:00
+
+====== Spells and Spell Lists ======
+
+===== Spell Lists =====
+1. [[+Bard|Bard]]
+
