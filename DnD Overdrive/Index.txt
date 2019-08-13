@@ -10,5 +10,6 @@ The Aerinian Index is a commodity made by myself with no profitable intent, to h
 2. [[+Classes|Classes]]
 3. [[+Backgrounds|Backgrounds]]
 4. Feats
-5. [[+Artifacts|Artifacts]]
-6. [[+Sources|Sources]]
+5. [[+Spells and Spell Lists|Spells and Spell Lists]]
+6. [[+Artifacts|Artifacts]]
+7. [[+Sources|Sources]]
