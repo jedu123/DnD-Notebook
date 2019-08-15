@@ -4,18 +4,13 @@ Creation-Date: 2019-08-10T09:41:42-03:00
 
 ====== Barbarian ======
 Barbarians, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea. For every barbarian, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.
-
-People of towns and cities take pride in how their civilized ways set them apart from animals as if denying one's nature was a mark of superiority. To a barbarian, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature, keen instincts, primal physicality, and ferocious rage. Barbarians are uncomfortable when hedged in by walls and crowds. They thrive in the wilds of their homelands: the prairies of Q'rah, the mountains of the Titan Spine, the woods of Faie, or the deserts of Alar where their tribes live and hunt. Barbarians come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A barbarian can draw on this reservoir of fury only a few times without resting, but those few fits of rage are usually sufficient to defeat whatever threats arise.
-
+People of towns and cities take pride in how their civilized ways set them apart from animals as if denying one's nature was a mark of superiority. To a barbarian, though, civilization is no virtue, but a sign of weakness — the strong embrace their animal nature, keen instincts, primal physicality, and ferocious rage. Barbarians are uncomfortable when hedged in by walls and crowds. They thrive in the wilds of their homelands: the prairies of Q'rah, the mountains in Titan Spine, the woods of Faie, or the deserts of Alar where their tribes live and hunt. Barbarians come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A barbarian can draw on this reservoir of fury only a few times without resting, but those few fits of rage are usually sufficient to defeat whatever threats arise.
 Not every member of the tribes deemed "barbarians" by scions of civilized society has the barbarian class. A true barbarian among these people is as uncommon as a skilled fighter in a town, he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Barbarians charge headlong into that danger so that their people don't have to. Their courage in the face of danger makes barbarians perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a barbarian. Some barbarians miss the close-knit family structures of the tribe but eventually find them replaced by the bonds formed among the members of their adventuring parties.
 
 ===== Creating a Barbarian =====
 What led you to take up the adventuring life? Were you lured to settled lands by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to "civilized" lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.
-
 What is the source of your rage? Where this turmoil comes from? For some, their rage springs from communion with fierce animal spirits. Others draw from a roiling reservoir of anger at a world full of pain.
-
 Barbarians are usually strong and resilient, with quick reflexes and strong intuition. They commonly are from a wild or dangerous place, where their natural rage can flourish easier.
-
 --------------------
 
 ===== Class Features =====
@@ -26,7 +21,7 @@ Barbarians are usually strong and resilient, with quick reflexes and strong intu
 **Hit Points at Higher LeveIs:** 1d12 (or 7) +Con. Mod 
 
 ==== Proficiencies ====
-**Armor:** Light armor, medium armor, shields 
+**Armour:** Light armour, medium armour, shields 
 **Weapons:** Simple weapons, martial weapons 
 **Tools:** None 
 **Saving Throws:** Str and Con 
@@ -62,19 +57,19 @@ Barbarians are usually strong and resilient, with quick reflexes and strong intu
 
 
 ==== Rage ====
-Your body and soul turns to one with your fury, allowing you to great feats of strength. On your turn, you can enter a rage as a bonus action. While raging, you gain the following benefits if you aren't wearing heavy armor:
+Your body and soul turns to one with your fury, allowing you to great feats of strength. On your turn, you can enter a rage as a bonus action. While raging, you gain the following benefits if you aren't wearing heavy armour:
 
 * You have advantage on Strength checks and Str saving throws. 
 * When you make a melee weapon attack using Str, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table. 
 * You have resistance to bludgeoning, piercing, and slashing damage. 
 
-If you can cast spells, you can't cast them or concentrate on them while raging. Your rage lasts for 1 minute. lt ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action. Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
+If you can cast spells, you can't cast them or concentrate on them while raging. Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action. Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again
 
 ==== Unarmored Defense ====
-Wits and strength are the only armor you will ever need. While not wearing any armor your AC = 10 + Dex.Mod + Con.Mod. You can use a shield and still gain this benefit.
+Wits and strength are the only armour you will ever need. While not wearing any armour your AC = 10 + Dex.Mod + Con.Mod. You can use a shield and still gain this benefit.
 
 ==== Reckless Attack ====
-Self-restraint is just a shackle. When you make your first attack on your turn you can choose to get adv. on melee weapon attack rolls using Str during this turn, but attacks made against you have adv. until your next turn.
+Self-restraint is just a shackle. When you make your first attack on your turn, you can choose to get adv. on melee weapon attack rolls using Str during this turn, but attacks made against you have adv. until your next turn.
 
 ==== Danger Sense ====
 You walk on an eternal razor's edge, honing your senses to predict danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
@@ -82,16 +77,16 @@ You walk on an eternal razor's edge, honing your senses to predict danger. You h
 ==== Primal Path ====
 What shapes your rage? Choose your Primal Path to receive its benefits.
 	* [[+Path of the Berserker|Path of the Berserker:]] For some barbarians, rage is a means to an end —that end being violence.
-	* [[+Path of the Totem Warrior|Path of the Totem Warrior:]] In battle your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.
+	* [[+Path of the Totem Warrior|Path of the Totem Warrior:]] In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.
 
 ==== Ability Score Improvement ====
-The path to greatness is hard but rewarding. You can gain a feat or increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+The path to greatness is hard but rewarding. You can gain a feat or increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. Usually, you can't increase an ability score above 20 using this feature.
 
 ==== Extra Attack ====
 Strike again, strike true. You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ==== Fast Movement ====
-A true predator never slows down. Your speed increases by 10 fy while you are not wearing heavy armor.
+A real predator never slows down. Your speed increases by 10 fy while you are not wearing heavy armour.
 
 ==== Feral Instinct ====
 Your instincts and senses are supernaturally accurate. You have adv. on initiative rolls. Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else.

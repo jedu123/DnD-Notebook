@@ -11,7 +11,7 @@ Dex+2
 An elf typically claims adulthood and an adult name around the age of 100 and can live to be 1500 years old.
 
 ==== Alignment ====
-Elves love freedom, variety, and selfexpression, so they lean strongly toward the gentler aspects of chaos.
+Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos.
 
 ==== Size ====
 They are slightly taller than humans on average, ranging from 1,80m to 2,20m. They are more slender than humans, usually weighing around 60kg. Your size is Medium.
@@ -20,24 +20,24 @@ They are slightly taller than humans on average, ranging from 1,80m to 2,20m. Th
 Your base walking speed is 30 feet. 
 
 ==== Darkvision ====
-Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were a bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of grey.
 
 ==== Keen Senses ====
-Elves contemplate the world around them constantly, seeking illumination or just to enjoy nature. You have proficiency in the Perception skill.
+Elves contemplate the world around them regularly, seeking illumination or enjoying nature. You have proficiency in the Perception skill.
 
 ==== Fey Ancestry ====
-With their roots within the Feywild came a powerful change on the elven mind. You have advantage on saving throws against being charmed, and magic can't put you to sleep.
+With their roots within the Feywild came a significant change in the elven mind. You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 
 ==== Támh ====
-Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Ezor word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
+Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Ezor word for such meditation is "trance.") During támh, you can dream after a fashion; such dreams are mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 
 ==== Languages ====
-The elven speak Teanga, a fluid, and a rich language, with subtle intonations and intricate grammar. Every elf is taught how to speak, read, and write in Teanga and Ezor.
+The elven speak Teanga, a fluid, and rich vocabulary, with subtle intonations and intricate grammar. Every elf is taught how to speak, read, and write in Teanga and Ezor.
 
 ==== Subraces ====
 
 === Uasal (High Elf) ===
-As a uasal, you have a keen mind and a mastery of at least the basics of magic and combat. You believe to be superior to every other race thanks to your connection with the Animi, even to other elves, and likes to revel in your hedonistic lifestyle. You are usually friendly to them but sometimes it's hard to not act as they are children or especially smart animals. The uasal lives majorly in Yshan, the Silver City, but can be found all across the continent.
+As a uasal, you have a keen mind and a mastery of at least the basics of magic and combat. You believe to be superior to every other race thanks to your connection with the Animi, even to other elves, and likes to revel in your hedonistic lifestyle. You are usually friendly to them, but sometimes it's hard not to act as they are children or ingenious animals. The uasal lives majorly in Yshan, the Silver City, but can be found all across the continent.
 
 == Ability Score Increase ==
 Int+1
@@ -46,13 +46,13 @@ Int+1
 You have proficiency with longswords, shortswords, shortbows, and longbows.
 
 == Cantrip ==
-You know one cant rip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
+You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it.
 
 == Extra Language ==
 You can speak, read, and write one extra language of your choice
 
 === Fiáin (Wood Elf) ===
-A fiáin has sharpened senses, a strong intuition and a powerful connection to nature. Your fleet feet can carry you quickly and stealthily through the forests. After the losses during the Runnarian Invasion, your kind became reclusive, living around the giant baobab, Ysa, and tending to the forest that protects them. The fiáin can be found inside Llaie unless some strong reason moves one to the life of adventuring.
+A fiáin has sharpened senses, a strong intuition and a powerful connection to nature. Your fleet feet can carry you quickly and stealthily through the forests. After the losses during the Runnarian Invasion, your kind became reclusive, living around the giant baobab, Ysa, and tending to the woods that protect them. The fiáin can be found inside Llaie unless some strong reason moves one to the life of adventuring.
 
 == Ability Score Increase ==
 Wis+1
@@ -78,23 +78,23 @@ You have proficiency with rapiers, shortswords, and hand crossbows.
 == Superior Darkvision ==
 Your darkvision has a radius of 120 feet.
 
-== Sunlight Sesitivity ==
+== Sunlight Sensitivity ==
 You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
 == Drow Magic ==
 You know the //Dancing Lights// cantrip. When you reach 3rd level, you can cast the //Faerie Fire// spell once per day. When you reach 5th level, you can also cast the //Darkness// spell once per day. Charisma is your spellcasting ability for these spells.
 
 === Uisceach (Sea Elf) ===
-The uisceach are stubborn, ingenious and resilient. Your adapted fingers allow you to swim faster, and your gills take out the need for air. As the weaker faction in the War for the Trident, the uisceach were enslaved by the tritons and merfolk. Those who escaped went to the Free Isles, trying to turn the tide in favor of their new homes and the still captured friends.
+The uisceach are stubborn, ingenious and resilient. Your adapted fingers allow you to swim faster, and your gills take out the need for air. As the weaker faction in the War for the Trident, the uisceach were enslaved by the tritons and merfolk. Those who escaped went to the Free Isles, trying to turn the tide in favour of their new homes and the still captured friends.
 
 == Ability Score Increase ==
 Con+1
 
 == Webbed Fingers ==
-You are able to swim at your normal movement speed instead of half speed, and you have Expertise on all swim checks instead of your normal Atheltics proficiency.
+You can swim at your average movement speed instead of half-speed, and you have Expertise on all swim checks instead of your standard Athletics proficiency.
 
 == Gills ==
-You can breath underwater.
+You can breathe underwater.
 
 == Uisceach Weapon Training ==
 You are proficient with tridents, spears, and nets.

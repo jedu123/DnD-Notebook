@@ -3,8 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-07-29T17:15:38-03:00
 
 ====== Llaie ======
-
-Surrounded by the lush forest of Frey and the mighty Emerald Wall is Llaie, one of the three elven cities. After suffering many casualties during the Age of Strife and the Runnarian Invasion they isolated themselves inside their territory and avoid contact with the outside world. They still keep receiving visitors and maintain the trade of ironbark, even after this self-imposed exile.
+Surrounded by the lush forest of Frey and the mighty Emerald Wall is Llaie, one of the three elven cities. After suffering many casualties during the Age of Strife and the Runnarian Invasion, they isolated themselves inside their territory and avoided contact with the outside world. They still keep receiving visitors and maintain the trade of ironbark, even after this self-imposed exile.
 
 ===== General Info =====
 * **Official Name: **Kingdom of Etrin
