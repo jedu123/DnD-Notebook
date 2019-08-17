@@ -3,17 +3,22 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-02-25T01:51:08-03:00
 
 ====== The World ======
-
-Aerin is a vast continent, with something around 17 million square kilometres wholly charted. The ocean around it is hard to navigate thanks to supernatural reasons; therefore, even going to Padaro is especially challenging. In the past, when the Gods were present in our world, they fought each other to see who would rule the continent. This period became known as the Divine Clash. After millennia shaping the world and its history, they went to the Beyond, where the gods have their private sanctums. 
+Aerin is a vast continent, with something around 17 million square kilometres wholly charted. The ocean around it is hard to navigate thanks to supernatural reasons; therefore, even going to Padaro is especially challenging. It uses an perennial calendar, divinding the year in thirteen months of twenty-eight days each. 
+In the past, when the Gods were present in our world, they fought each other to see who would rule the continent. This period became known as the Divine Clash. After millennia shaping the world and its history, they went to the Beyond, where the gods have their private sanctums. 
  After the Divine Clash, there was the Age of Strife, the frame of time where the clans and tribes began to unite under someone's banner and becoming kingdoms. After that came the Runnarian Invasion, an extraplanar threat that forced the countries to work together. Now the world lives through an age of peace and growth maintained by the League of Aerin.
+ This world is profoundly magical, with traces of the Words of Creation so present everywhere that everything has a soul, an Animus. People know how to use the most common magic items and understand the basics of animism.
 
-* The World is Magical: Magic is something that you can learn how to use, and is commonplace among people how to use some of the most common magical items.
-
-* The World is Also Animistic: Everything has a soul, be it simple or complex.
+===== Timeflow Structure =====
+* Hours, minutes, and seconds are the same as ours
+* Days of 24 hours, with roughly 12 hours of daylight and 12 hours of nightime. The exceptions are the solstices (longest and shortest days) and equinox (days with almost the same amount of ligh and darkness).
+* Weeks of 7 days, named: Suno (sunday), Luno (monday), Fajro (tuesday), Akvo (wednesday), Ligno (thursday), Metalo (friday), and Grundo (saturday)
+* Years of 13 months, named: Unue, Dua, Triono, Kvara, Kvina, Sesa, Sepa, Oka, Naua, Deka, Dekunua, Dekdua, and Lasta. The year is closely related to the seasons with First of Unue being Kreado's equinox.
+* There are four season, of 91 days each. 
+	* Kreado
 
 
 ===== Timeline =====
-* Anno 0: End of Divine Clash, Gods go to the Beyond.
+* Anno 0: End of Divine Clash, Gods go to the Beyond
 * Anno 23: Battle for Purpur Field begins
 * Anno 33: Ends the Battle for Purpur Field, begins the Age of Strife
 * Anno 38: Founding of Etrin
