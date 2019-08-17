@@ -5,5 +5,136 @@ Creation-Date: 2019-07-25T12:31:14-03:00
 ====== Mysticism, Magic and the Supernatural ======
 
 ===== Arcana Fundamentum: Magic and its fundamentals =====
+//BASE TEÓRICA
+leylines and magical topology
 
+To think of it in other terms, matter is by nature lawful
+while magic is by nature chaotic,
 
+Unsurprisingly, magic on a planetary scale is a complex thing. Magic works
+very similarly to water in that it flows along the path of least resistance. It pools
+anywhere, regardless of depth, height, or pressure. Unlike water, magic doesn’t usually
+pool in vast quantities. It is rare to find a magic pool any bigger than a large pond. A
+magic “stream” is called a ley line, and a magic “pond” is called a terminus. There isn’t
+any relationship between the amount of magic flowing into a terminus and the size of a
+terminus; some of the most powerful ley lines have small termini while weak ley lines
+may have large ones. Ley lines are also unusually straight compared to most water
+streams. Most ley lines are divinely aligned, and most termini are arcanely aligned,
+though some ley lines and termini are aligned to both.
+
+Magical topography takes no consideration of physical
+situation, and it changes with incredible speed in comparison to physical topography.
+There is no relationship between physical topography and subtle topography (what
+spell casters call the magical topography). Subtle topography, as best explained to me, is
+a giant system of tunnels permeating the entirety of a world, completely unaffected by
+physical matter. I think of these tunnels as veins and arteries in three dimensions with
+tiny little capillaries filling the entirely of the remaining space.
+
+Magic Flows: Ley Lines and Termini
+Magic flows exist throughout every world. Some
+worlds are so poor in magic that only a few, weak
+flows exist, but the average world has hundreds, even
+thousands, of flows differing in magnitude. There are
+several basic types of flows classified according to
+what the ley line does and what affect the terminus
+has. All magic flows follow the lay of the subtle
+topography.
+All magic flows along the general orientation
+of the ley line, but ley lines don’t remain fixed
+in one area for very long. In this ma􀄴er they’re
+similar to rivers, but at a vastly increased
+period of change. These changes are,
+however, somewhat predicable. Each magic
+flow has a particular “flood plain” along
+which it moves. Most flows oscillate in a
+10 to 40 year period, moving five feet in a
+single direction over the period of a single
+year. Spellcasters hoping to capitalize on a
+magic flow usually build strongholds that
+span the entire flood plain area of the ley
+line. For example, consider a powerful
+flow traveling north south for ten miles.
+Every year it moves 5 feet to the west or
+the east, and every fi􀄞een years it returns
+to its original seat. The flood plain for
+this flow moves approximately 75􀄞, and
+its period (the length of time from the
+center, extreme west, extreme east, and
+then back to the center point) is 30 years.
+Ley lines also vary in width from year to
+year. This change is more unpredictable
+than the ley line’s period, but any ley
+line rarely increases more than double or
+decreased more than half of its original
+size. The dynamic width of the ley line
+alters the size of its flood plain.
+The most common magic flow is
+the magic-rich ley line with a magic-rich
+terminus. Magic richness increases casting
+capabilities, but sometimes it comes at a
+cost. The second most common flow is a
+magic-rich ley line ending in a terminus
+that is an elemental portal. The third most
+common is a magic-rich ley line feeding a
+null terminus, and the fourth most common
+type of magic flow is a null ley line feeding
+into a null terminus. The least common of the
+classifiable flows is a null ley line feeding into a
+multidimensional portal. These five flows make up
+over 90% of all flows in most magical worlds. The
+remaining flows are almost always unique and have
+so far defied easy classification.
+
+Magic-rich ley lines flow like life-giving rivers in the desert. Some ley lines are
+small affairs narrow enough for a running halfling to breach, but most are a decent size.
+Just like a real river, their effects reach out farther than their width, as concentrated
+magic seeps into the surrounding air, soil, and rock. Some ley lines intensify any spell
+cast within their area of effect, and some are powerful enough to damage anyone foolish
+enough to cast within their range of effect. Magic-rich termini have similar effects, just
+a different shape.
+Magic-rich ley lines feeding elemental portal termini have slightly different
+characteristics; they tend to favor a particular type of magic as indicated by their portal.
+They intensify aligned magic while diminishing the opposite element. Some elemental
+portals are linked to the positive and negative energy sources as well. These two types
+of elemental portals are the most rare, but also most powerful. Negative portals are the
+source of many undead while positive portals are o􀄞en holy sites. Of all magic flows
+ending in an elemental terminus, only 10% of those end in negative or positive portals.
+Most elemental gates are only medium-sized or smaller, though some are much larger.
+Negative and positive termini don’t have actual gates (this would result in a massive
+energy release as the pure positive or pure negative energy touches ma􀄴er), rather
+places where the shells between the planes are thinner.
+Magic-rich ley lines also feed into null termini. These magic flows are hard to
+understand, but the gods of magic explain that most null termini aren’t really devoid
+of magic, per se. Over 90% of null termini are actually magic-rich termini with an
+overabundance of microscopic magiotrophs, happily eating a vast percentage of the
+magic in the terminus. One would think that this would lead to a great population
+crash, but it appears most microscopic magiotrophs self-regulate their population to
+such a degree that the population is almost completely stable. In other words, just the
+right amount of magic comes out to feed all the magiotrophs, and there’s nothing le􀄞 to
+manipulate.
+These magic-rich but effectively null magic termini o􀄞en have massive
+amounts of vegetation and/or creatures tapping into the abnormally high numbers of
+magiotrophs in the area. Magical energy feeding the magiotrophs pump large amounts
+of additional energy to the ecosystem, which a􀄴ract more exploiters. Magic-rich null
+termini are very similar to oases in comparison to regular terrain. However, don’t try
+to cast any spells, they won’t work. I wouldn’t spend too much time there either, unless
+you’re willing to have your mind slowly stripped of its ability to manipulate magic.
+Some null termini are simply places low in magic. The gods of magic believe these are
+magical sinks where magic quickly drains elsewhere, leaving behind an area of null
+magic. Beware of these places as well if you use magic.
+Null ley lines feeding into null termini share some characteristics with the
+above magic flow. Some are places where magiotrophes feed in fast numbers, and these
+flows teem with subsequent flourishing of life, but the majority are magical sinks. Sinks
+are places where magic is being shunt elsewhere usually via a time manipulation done
+by the body magic. I don’t understand the particulars (although my gnome was pleased
+to explain them to me – at length), but the particulars aren’t important to the broad scale
+at this point. For what it’s worth, the magic isn’t “missing” at these sinks; it’s simply
+“somewhere else right now.”
+The last of the common magic flows are null ley lines that feed into
+multidimensional portals. These compose only a small percentage of all magic flows,
+and powerful creatures usually guard them jealously. The portal is typically largesized
+and o􀄞en bigger. The gods believe null ley lines feeding into portals power the
+connection between two planes. Were the null ley line cease to connect with the portal,
+the portal would cease to exist. A very few (0.1%) of these portals can be controlled
+and ordered to link to any plane their master wishes. Needless to say, you had best be
+prepared if you plan on owning or controlling one of these magic flows.
