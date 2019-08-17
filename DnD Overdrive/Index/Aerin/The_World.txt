@@ -10,11 +10,15 @@ In the past, when the Gods were present in our world, they fought each other to 
 
 ===== Timeflow Structure =====
 * Hours, minutes, and seconds are the same as ours
-* Days of 24 hours, with roughly 12 hours of daylight and 12 hours of nightime. The exceptions are the solstices (longest and shortest days) and equinox (days with almost the same amount of ligh and darkness).
-* Weeks of 7 days, named: Suno (sunday), Luno (monday), Fajro (tuesday), Akvo (wednesday), Ligno (thursday), Metalo (friday), and Grundo (saturday)
-* Years of 13 months, named: Unue, Dua, Triono, Kvara, Kvina, Sesa, Sepa, Oka, Naua, Deka, Dekunua, Dekdua, and Lasta. The year is closely related to the seasons with First of Unue being Kreado's equinox.
-* There are four season, of 91 days each. 
-	* Kreado
+* Days of 24 hours, with roughly 12 hours of daylight and 12 hours of nighttime. The exceptions are the solstices (longest and shortest days) and equinox (days with almost the same amount of light and darkness).
+* Weeks of 7 days, named: Suno (Sunday), Luno (Monday), Fajro (Tuesday), Akvo (Wednesday), Ligno (Thursday), Metalo (Friday), and Grundo (Saturday)
+* Years of 13 months, named: Unue, Dua, Triono, Kvara, Kvina, Sesa, Sepa, Oka, Naua, Deka, Dekunua, Dekdua, and Lasta. The year is closely related to the seasons with First of Unue being Naski's equinox.
+* There are four seasons, of 91 days each.
+	* Naski, beginning with the Day of Passage on First of Unue, the equinox that the gods went to the Beyond
+	* Kresko starts in the longest day of the year, Eight of Kvara
+	* Rikolti that commences with another equinox supposed to lead to the Land of Shadows,  Sixteen of Sepa
+	* Funebro, beginning on the shortest day of the year, Twenty-Four of Deka
+
 
 
 ===== Timeline =====
