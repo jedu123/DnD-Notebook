@@ -97,6 +97,7 @@ You can use soothing music or oration to help revitalize your wounded allies dur
 Bards form loose associations, which they call colleges, to facilitate their gatherings and preserve their traditions. You delve into the advanced techniques of a bard college of your choice.
 	* [[+College of Lore|College of Lore:]] You know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales.
 	* [[+College of Valor|College of Valor:]] You are a daring skald whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes.
+	* [[+College of Charity|College of Charity]]: You strive in your goal of helping others overcome their struggles, even at the cost of personal sacrifice.
 
 ==== Ability Score Improvement ====
 The path to greatness is hard but rewarding. You can gain a feat or increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. Usually, you can't increase an ability score above 20 using this feature.

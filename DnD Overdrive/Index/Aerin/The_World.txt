@@ -3,10 +3,12 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-02-25T01:51:08-03:00
 
 ====== The World ======
-Aerin is a vast continent, with something around 17 million square kilometres wholly charted. The ocean around it is hard to navigate thanks to supernatural reasons; therefore, even going to Padaro is especially challenging. It uses an perennial calendar, divinding the year in thirteen months of twenty-eight days each. 
-In the past, when the Gods were present in our world, they fought each other to see who would rule the continent. This period became known as the Divine Clash. After millennia shaping the world and its history, they went to the Beyond, where the gods have their private sanctums. 
+Aerin is a vast continent, with something around 17 million square kilometres wholly charted. The ocean around it is hard to navigate thanks to supernatural reasons; therefore, even going to Padaro is especially challenging. It uses a perennial calendar, dividing the year in thirteen months of twenty-eight days each. 
+ In the past, when the Gods were present in our world, they fought each other to see who would rule the continent. This period became known as the Divine Clash. After millennia shaping the world and its history, they went to the Beyond, where the gods have their private sanctums. 
+ Their past presence left the aerinian with two distinct parallel religious systems; the common folk usually pray to the gods of their choice in the Pantheon while the followers of a specific deity are part of a Mystery Cult trying to emulate their god's steps. This world is also profoundly magical, with traces of the Words of Creation so present everywhere that everything has a soul, an Animus. People know how to use the most common magic items and understand the basics of animism.
  After the Divine Clash, there was the Age of Strife, the frame of time where the clans and tribes began to unite under someone's banner and becoming kingdoms. After that came the Runnarian Invasion, an extraplanar threat that forced the countries to work together. Now the world lives through an age of peace and growth maintained by the League of Aerin.
- This world is profoundly magical, with traces of the Words of Creation so present everywhere that everything has a soul, an Animus. People know how to use the most common magic items and understand the basics of animism.
+
+ 
 
 ===== Timeflow Structure =====
 * Hours, minutes, and seconds are the same as ours

@@ -21,7 +21,7 @@ Creation-Date: 2019-01-14T15:57:26-03:00
 14. [[+Ishtar|Ishtar]] (Duskborn)
 15. [[+Gijur|Gijur]] (Smallfolk, Dwarvenkind)
 16. [[+Alar Empire|Alar Empire]] (Everyone)
-17. Arkan (Mankind)
+17. [[+Arkan|Arkan]] (Mankind)
 18. Padaro (Free Folks, Travelers and Nomads)
 19. The Bastion (Travelers and Nomads) 
 20. Titan Spine (Mountainfolk and Nomads)

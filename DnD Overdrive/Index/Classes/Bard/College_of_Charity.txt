@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-18T19:27:11-03:00
+
+====== College of Charity ======
+These bards gather in mead halls or great bonfires to sing the deeds of the mighty, both past and present. They travel the land to witness significant events firsthand and to ensure that the memory of those events doesn't pass from the world. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old.
+
+==== Bonus Proficiencies (Lv. 3) ====
+At joining this college and partaking their gatherings, you gain proficiency and expertise with Medicine.
+
+==== Healing Hand (Lv. 3) ====
+You can aid your allies when they are injured. As a reaction, you can expend one of your uses of Bardic Inspiration, rolling a Bardic Inspiration die and adding the number rolled plus your proficiency modifier, and adding that to their health of an ally within 60ft.
+
+==== Divine Grace (Lv. 6) ====
+Your peerles charity has been noted by the divine, and they have granted you tools to aid in your pursuit. You learn the spells //Mass Healing Word, Revivify, //and //Sanctuary.// These spells count as bard spells for you but don't count against the number of bard spells you know.
+
+==== Song of Hope (Lv. 14) ====
+You are the light that brings the dying back to live. You can use an action on your turn to use and instrument or your voice to bolster your allies. Until the beginning of your next turn, allies within 60ft of you have Advantage on every saving throws, including death saves, and immunity to fear effects. On your next turn, you can use your action to continue these effects. This can be done for up to 1 minute. Once you use this feature, you cannot use it again until you complete a long rest.
+
