@@ -8,10 +8,10 @@ The secluded Island of Arkan is the scientific and arcane paradise of Aerin. Fou
 ===== General Info =====
 * **Official Name: **City-State of Arkan
 * **Actual Regent: **Grand Archmage Arkan Blackthorne
-* **Status:** Kingdom
+* **Status:** Free State
 * **Capital:** Island of Arkan
 * **Important Places:**  The Grand University, The Archmage Tower, The Protectors HQ
-* **Languages:** Ezor, High Ezor
+* **Languages:** Ezor, High Ezor, Arcana
 * **Races:** Any
 * **Demonym:** Arkanian
 * **Government:** Magocracy
