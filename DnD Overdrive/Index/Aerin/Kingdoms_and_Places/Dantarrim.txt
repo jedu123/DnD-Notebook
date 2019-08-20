@@ -10,8 +10,8 @@ The dwarven kingdom that sits in the Dantarrim Range, with Etrin on the south an
 * **Official Name: **Kingdom of Dantarrimian Clans
 * **Actual Regents: **
 * **Status:** Kingdom
-* **Capital:** Deephall
-* **Largest Cities:**  
+* **Capital:** Saalstark
+* **Largest Cities:** 
 * **Languages:** Ezor and Zwergg
 * **Races:** Dwarvenkind 
 * **Demonym:** Dantarrimian
