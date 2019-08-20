@@ -22,7 +22,7 @@ Creation-Date: 2019-01-14T15:57:26-03:00
 15. [[+Gijur|Gijur]] (Smallfolk, Dwarvenkind)
 16. [[+Alar Empire|Alar Empire]] (Everyone)
 17. [[+Arkan|Arkan]] (Mankind)
-18. Padaro (Free Folks, Travelers and Nomads)
+18. [[+Padaro|Padaro]] (Free Folks, Travelers and Nomads)
 19. The Bastion (Travelers and Nomads) 
 20. Titan Spine (Mountainfolk and Nomads)
 21. Sea of Blades (???)
