@@ -18,7 +18,7 @@ Creation-Date: 2019-01-15T13:35:40-03:00
 		c. Drow
 		d. Sea Elf (Uisceach)
 
-	4. Small Folk
+	4. [[+Small Folk|Small Folk]]
 		a. Halfling
 		b. Gnome
 
