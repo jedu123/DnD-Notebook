@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-21T20:32:19-03:00
+
+====== Charlatan ======
+You have always had a way with people. You know what makes them tick, you can tease out their hearts' desires after a few minutes of conversation, and with a few leading questions you can read them like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage. You know what people want and you deliver, or rather, you promise to deliver. Common sense should steer people away from things that sound too good to be true, but common sense seems to be in short supply when you're around. The bottle of pink-colored liquid will surely cure that unseemly rash, this ointment—nothing more than a bit of fat with a sprinkle of silver dust—can restore youth and vigor, and there's a bridge in the city that just happens to be for sale. These marvels sound implausible, but you make them sound like the real deal.
+
+===== Creating your charlatan =====
+Charlatans are colourful characters who conceal their true selves behind the masks they construct. They reflect what people want to see, what they want to believe, and how they see the world. But their true selves are sometimes plagued by an uneasy conscience, an old enemy, or deep-seated trust issues. Every charlatan also has an angle he or she uses in preference to other schemes, be it cheating, forgery, fake identities or scamming. Charlatans are usually moved by independence, fairness, charity, creativity, friendship or aspiration for something higher.
+
+===== Features =====
+* **Skills: **Deception, Sleight of Hand
+* **Tool Proficiencies: **Disguise kit, forgery kit
+* **Equipment:** A set of fine clothes, a disguise kit, tools of the con of your choice, and a belt pouch containing 15 gp.
+* **False Identity: **You have created a second identity that includes documentation, established acquaintances, and disguises that allow you to assume that persona. Additionally, you can forge documents including official papers and personal le tters, as long as you have seen an example of the kind of document or the handwriting you are trying to copy.

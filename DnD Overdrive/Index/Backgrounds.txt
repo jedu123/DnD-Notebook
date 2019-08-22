@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-21T18:34:19-03:00
+
+====== Backgrounds ======
+
+1. [[+Acolyte|Acolyte]]
+2. [[+Charlatan|Charlatan]]
+
