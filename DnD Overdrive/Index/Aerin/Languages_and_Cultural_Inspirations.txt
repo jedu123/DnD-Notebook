@@ -13,6 +13,7 @@ Reference for languages and cultures
 * Arcana (Spellcasting Language) = Latin - https://www.online-latin-dictionary.com/
 * Zwergg (Dwarvish) = German - https://www.dict.cc/?l=e
 * Teanga (Elvish) = Irish - https://www.focloir.ie/ ((Ulster Pronunciation))
+* Cainnt (Halfling) = Gaelic - https://en.glosbe.com/en/gd/
 
 ===== Cultures =====
 * Etrin: Late Renaissance Germany
