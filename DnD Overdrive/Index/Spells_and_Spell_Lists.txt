@@ -7,3 +7,15 @@ Creation-Date: 2019-08-12T21:45:50-03:00
 ===== Spell Lists =====
 1. [[+Bard|Bard]]
 
+===== Spells =====
+1. [[+Cantrips|Cantrips]]
+2. [[+1st-Level|1st-Level]]
+3. [[+2nd-Level|2nd-Level]]
+4. [[+3rd-Level|3rd-Level]]
+5. [[+4th-Level|4th-Level]]
+6. [[+5th-Level|5th-Level]]
+7. [[+6th-Level|6th-Level]]
+8. [[+7th-Level|7th-Level]]
+9. [[+8th-Level|8th-Level]]
+10. [[+9th-Level|9th-Level]]
+
