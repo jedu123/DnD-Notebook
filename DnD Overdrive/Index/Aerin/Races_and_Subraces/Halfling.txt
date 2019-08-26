@@ -1,0 +1,74 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-26T00:38:26-03:00
+
+====== Halfling ======
+
+
+==== Ability Score Increase ====
+Dex+2
+
+==== Age ====
+A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her third century.
+
+==== Alignment ====
+Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.
+
+==== Size ====
+Halflings average about 1 metre and weight 
+
+==== Speed ====
+Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
+
+==== Darkvision ====
+Used to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were a bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of grey.
+
+==== Dwarven Resilience ====
+The dwarven are stubborn people, even in their innards. You have advantage on saving throws against poison and diseases, and you have resistance against poison damage.
+
+==== Dwarven Combat Training ====
+A practical race, dwarves, can use weapons that resemble their tools. You have proficiency with the battleaxe, handaxe, sling, light hammer and quarterstaff.
+
+==== Tool Proficiency ====
+Every dwarf knows a thing or two about handcrafts. You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.
+
+==== Stonecunning ====
+Living on tradition is an excellent way to understand part of the world around you. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your standard proficiency bonus.
+
+==== Written in Stone ====
+Bawtan doesn't lie, and so his people. You are unable to lie, even under the effects of mind control spells. This effect does not apply to oaths and promises.
+
+==== Languages ====
+The dwarven speak Zwergg, a speech full of hard consonants and guttural sounds, and those characteristics spill over into whatever other words a dwarf might speak. You can speak, and if literate, read, and write Ezor and Zwergg.
+
+==== Subraces ====
+
+=== Arktin (Arctic Dwarf) ===
+As an arktin, you have a strong body, thick skin, and training to defy even the hardest winter. This extremely rare subrace lives at the top of Dantarrim highest peaks.
+
+== Ability Score Increase ==
+Str+1
+
+== Arctic Adaptation ==
+You have Advantage on saving throws against the effects of cold. Besides, you are considered proficient in Survival checks in Arctic environments.
+
+=== Hugen (Hill Dwarf) ===
+As a hugen, you have keen senses, deep intuition, and remarkable resilience. They are the most common subrace in Gijur and the inhabitants of the valley regions in Dantarrim. 
+
+== Ability Score Increase ==
+Wis+1
+
+== Dwarven Toughness ==
+Your hit points maximum increases by 1, and it increases by 1 every time you gain a level.
+
+=== Bergen (Mountain Dwarf) ===
+As a bergen, you're strong and hardy, accustomed to a difficult life in rugged terrain. You're probably on the tall side (for a dwarf) and tend toward lighter colouration. Bergens are the most common kind of dwarf found in Dantarrim.
+
+== Ability Score Increase ==
+Str+2
+
+== Dwarven Armor Training ==
+You have proficiency with light and medium armour.
+
+
+
