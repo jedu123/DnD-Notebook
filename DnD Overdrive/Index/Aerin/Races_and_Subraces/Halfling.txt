@@ -9,66 +9,51 @@ Creation-Date: 2019-08-26T00:38:26-03:00
 Dex+2
 
 ==== Age ====
-A halfling reaches adulthood at the age of 20 and generally lives into the middle of his or her third century.
+Halflings reach adulthood at the age of 20 and generally live into the middle of their third century.
 
 ==== Alignment ====
 Most halflings are lawful good. As a rule, they are good-hearted and kind, hate to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, leaning heavily on the support of their community and the comfort of their old ways.
 
 ==== Size ====
-Halflings average about 1 metre and weight 
+Halflings average about 1 meter tall and weigh about 20 kilograms. Your size is Small.
 
 ==== Speed ====
-Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
+Your base walking speed is 25 feet.
 
-==== Darkvision ====
-Used to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were a bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of grey.
+==== Lucky ====
+Fortune favours the bold. When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll.
 
-==== Dwarven Resilience ====
-The dwarven are stubborn people, even in their innards. You have advantage on saving throws against poison and diseases, and you have resistance against poison damage.
+==== Brave ====
+A hero's resolve must be stronger than their steel. You have Advantage on saving throws against being frightened.
 
-==== Dwarven Combat Training ====
-A practical race, dwarves, can use weapons that resemble their tools. You have proficiency with the battleaxe, handaxe, sling, light hammer and quarterstaff.
+==== Halfling Nimbleness ====
+Being small has its advantages. You can move through the space of any creature that is of a size larger than yours.
 
-==== Tool Proficiency ====
-Every dwarf knows a thing or two about handcrafts. You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.
-
-==== Stonecunning ====
-Living on tradition is an excellent way to understand part of the world around you. Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your standard proficiency bonus.
-
-==== Written in Stone ====
-Bawtan doesn't lie, and so his people. You are unable to lie, even under the effects of mind control spells. This effect does not apply to oaths and promises.
+==== Small Folk Defender ====
+You have advantage on any Charisma (Persuasion) check done with other races from the Small Folk.
 
 ==== Languages ====
-The dwarven speak Zwergg, a speech full of hard consonants and guttural sounds, and those characteristics spill over into whatever other words a dwarf might speak. You can speak, and if literate, read, and write Ezor and Zwergg.
+You can speak, read, and write Ezor and Cainnt. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is robust. Almost all halflings speak Ezor to converse with the people in whose lands they dwell or through which they are travelling.
 
 ==== Subraces ====
 
-=== Arktin (Arctic Dwarf) ===
-As an arktin, you have a strong body, thick skin, and training to defy even the hardest winter. This extremely rare subrace lives at the top of Dantarrim highest peaks.
+=== Luathcas (Lightfoot) ===
+As a luathcas, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others. In the Aerin, they have spread the farthest and thus are the most common variety. These are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life.
 
 == Ability Score Increase ==
-Str+1
+Cha+1
 
-== Arctic Adaptation ==
-You have Advantage on saving throws against the effects of cold. Besides, you are considered proficient in Survival checks in Arctic environments.
+== Naturally Stealthy ==
+You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.
 
-=== Hugen (Hill Dwarf) ===
-As a hugen, you have keen senses, deep intuition, and remarkable resilience. They are the most common subrace in Gijur and the inhabitants of the valley regions in Dantarrim. 
-
-== Ability Score Increase ==
-Wis+1
-
-== Dwarven Toughness ==
-Your hit points maximum increases by 1, and it increases by 1 every time you gain a level.
-
-=== Bergen (Mountain Dwarf) ===
-As a bergen, you're strong and hardy, accustomed to a difficult life in rugged terrain. You're probably on the tall side (for a dwarf) and tend toward lighter colouration. Bergens are the most common kind of dwarf found in Dantarrim.
+=== Làidir (Stout) ===
+As a làidir, you're hardier than average and have some resistance to poison. Some say that stouts have dwarven blood. They are the most used to fill the legions and chapters of Durgora and Gijur.
 
 == Ability Score Increase ==
-Str+2
+Con+1
 
-== Dwarven Armor Training ==
-You have proficiency with light and medium armour.
+== Stout Resilience ==
+You have Advantage on saving throws against poison, and you have resistance against poison damage.
 
 
 
