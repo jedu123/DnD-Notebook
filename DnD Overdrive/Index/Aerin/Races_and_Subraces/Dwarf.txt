@@ -26,7 +26,7 @@ Used to life underground, you have superior vision in dark and dim conditions. Y
 The dwarven are stubborn people, even in their innards. You have advantage on saving throws against poison and diseases, and you have resistance against poison damage.
 
 ==== Dwarven Combat Training ====
-A practical race, dwarves, can use weapons that resemble their tools. You have proficiency with the battleaxe, handaxe, sling, light hammer and quarterstaff.
+A practical race, dwarves, can use weapons that resemble their tools of trade. You have proficiency with the battleaxe, handaxe, light hammer and quarterstaff.
 
 ==== Tool Proficiency ====
 Every dwarf knows a thing or two about handcrafts. You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.
