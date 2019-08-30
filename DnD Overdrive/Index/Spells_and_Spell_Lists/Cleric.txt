@@ -1,0 +1,134 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-30T16:22:14-03:00
+
+====== Cleric Spell List ======
+
+* [[Spells and Spell Lists:Cantrips|Cantrips]]
+	Guidance
+	Light
+	Mending
+	Resistance
+	Sacred Flame
+	Spare the Dying
+	Thaumaturgy
+
+* [[Spells and Spell Lists:1st-Level|1st Level]]
+	Bane
+	Bless
+	Command
+	Create or Destroy Water
+	Cure Wounds
+	Detect Evil and Good
+	Detect Magic
+	Detect Poison and Disease
+	Guiding Bolt
+	Healing Word
+	Inflict Wounds
+	Protection from Evil and Good
+	Purify Food and Drink
+	Sanctuary
+	Shield of Faith
+
+* [[Spells and Spell Lists:2nd-Level|2nd Level]]
+	Aid
+	Augury
+	Blindness/Deafness
+	Calm Emotions
+	Continual Flame
+	Enhance Ability
+	Find Traps
+	Gentle Repose
+	Hold Person
+	Lesser Restoration
+	Locate Object
+	Prayer of Healing
+	Protection from Poison
+	Silence
+	Spiritual Weapon
+	Warding Bond
+	Zone of Truth
+
+* [[Spells and Spell Lists:3rd-Level|3rd Level]]
+	Animate Dead
+	Beacon of Hope
+	Bestow Curse
+	Clairvoyance
+	Create Food and Water
+	Daylight
+	Dispel Magic
+	Feign Death
+	Glyph of Warding
+	Magic Circle
+	Mass Healing Word
+	Meld into Stone
+	Protection from Energy
+	Remove Curse
+	Revivify
+	Sending
+	Speak with Dead
+	Spirit Guardians
+	Tongues
+	Water Walk
+
+* [[Spells and Spell Lists:4th-Level|4th Level]]
+	Banishment
+	Control Water
+	Death Ward
+	Divination
+	Freedom of Movement
+	Guardian of Faith
+	Locate Creature
+	Stone Shape
+
+* [[Spells and Spell Lists:5th-Level|5th Level]]
+	Commune
+	Contagion
+	Dispel Evil and Good
+	Flame Strike
+	Geas
+	Greater Restoration
+	Hallow
+	Insect Plague
+	Legend Lore
+	Mass Cure Wounds
+	Planar Binding
+	Raise Dead
+	Scrying
+
+* [[Spells and Spell Lists:6th-Level|6th Level]]
+	Blade Barrier
+	Create Undead
+	Find the Path
+	Forbiddance
+	Harm
+	Heal
+	Heroes’ Feast
+	Planar Ally
+	True Seeing
+	Word of Recall
+
+* [[Spells and Spell Lists:7th-Level|7th Level]]
+	Conjure Celestial
+	Divine Word
+	Etherealness
+	Fire Storm
+	Plane Shift
+	Regenerate
+	Resurrection
+	Symbol
+
+* [[Spells and Spell Lists:8th-Level|8th Level]]
+	Antimagic Field
+	Control Weather
+	Earthquake
+	Holy Aura
+
+* [[Spells and Spell Lists:9th-Level|9th Level]]
+	Astral Projection
+	Gate
+	Mass Heal
+	True Resurrection
+
+
+
