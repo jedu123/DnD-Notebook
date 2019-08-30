@@ -2,9 +2,18 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-08-21T21:09:51-03:00
 
-====== 1st-Level ======
+====== 1st-Level (PAROU EM COLOR SPRAY) ======
 
 ===== Abjuration =====
+
+==== Armor of Agathys ====
+**Casting Time:** 1 action
+**Range:** Self
+**Components:** V, S, M (a cup of water)
+**Duration:** 1 hour
+A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 cold damage.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.
 
 ==== Alarm ====
 **Casting Time: **1 minute
@@ -15,7 +24,14 @@ You set an alarm against unwanted intrusion. Choose a door, a window, or an area
 
 ===== Conjuration =====
 
+==== Arms of Hadar ====
+**Casting Time:** 1 action
+**Range:** Self (10-foot radius)
+**Components:** V, S
+**Duration:** Instantaneous
+You invoke the power of Hadar, the Dark Hunger. Tendrils of dark energy erupt from you and batter all creatures within 10 feet of you. Each creature in that area must make a Strength saving throw. On a failed save, a target takes 2d6 necrotic damage and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effect.
 
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 
 
@@ -23,6 +39,33 @@ You set an alarm against unwanted intrusion. Choose a door, a window, or an area
 
 
 ===== Enchantment =====
+
+==== Charm Person ====
+**Casting Time:** 1 action
+**Range:** 30 feet
+**Components:** V, S
+**Duration:** 1 hour
+You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+
+==== Bless ====
+**Casting Time:** 1 action
+**Range:** 30 feet
+**Components:** V, S, M (a sprinkling of holy water)
+**Duration:** Concentration, up to 1 minute
+You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+
+==== Bane ====
+**Casting Time:** 1 action
+**Range:** 30 feet
+**Components:** V, S, M (a drop of blood)
+**Duration:** Concentration, up to 1 minute
+Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ==== Animal Friendship ====
 **Casting Time: **1 action
@@ -32,19 +75,40 @@ You set an alarm against unwanted intrusion. Choose a door, a window, or an area
 This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spells ends. 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.
 
-==== Animal Messenger ====
-**Casting Time: **1 action (Ritual)
-**Range: **30ft
-**Components: **V, S, M (a morsel of food) 
-**Duration:** 24 hours
-By means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat. You specify a location, which you must have visited, and a recipient who matches a general description, such as "a man or woman dressed in the uniform of the town guard" or "a red-haired dwarf wearing a pointed hat." You also speak a message of up to twenty-five words. The target beast travels for the duration of the spell toward the specified location, covering about 50 miles per 24 hours for a flying messenger, or 25 miles for other animals. When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn't reach its destination before the spell ends, the message is lost, and the beast makes its way back to where you cast this spell.
-**At Higher Levels.** If you cast this spell using a spell slot of 3nd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
+
 
 ===== Evocation =====
 
+==== Chromatic Orb ====
+**Casting Time:** 1 action
+**Range:** 90 feet
+**Components:** V, S, M (a diamond worth at least 50 gp)
+**Duration:** Instantaneous
+You hurl a 4-inch-diameter sphere of energy at a creature that you can see within range. You choose acid, cold, fire, lightning, poison, or thunder for the type of orb you create, and then make a ranged spell attack against the target. If the attack hits, the creature takes 3d8 damage of the type you chose.
+
+**At Higher Levels**. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+
+==== Burning Hands ====
+**Casting Time:** 1 action
+**Range:** Self (15-foot cone)
+**Components:** V, S
+**Duration:** Instantaneous
+As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
+The fire ignites any flammable objects in the area that aren’t being worn or carried.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 
 ===== Illusion =====
 
+==== Color Spray ====
+**Casting Time:** 1 action
+**Range:** Self (15-foot cone)
+**Components:** V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)
+**Duration:** 1 round
+A dazzling array of flashing, colored light springs from your hand. Roll 6d10; the total is how many hit points of creatures this spell can affect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can’t see).
+Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the end of your next turn. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st.
 
 ===== Necromancy =====
 
