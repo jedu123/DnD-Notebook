@@ -6,4 +6,6 @@ Creation-Date: 2019-08-21T18:34:19-03:00
 
 1. [[+Acolyte|Acolyte]]
 2. [[+Charlatan|Charlatan]]
+3. [[+Criminal|Criminal]]
+4. [[+Entertainer|Entertainer]]
 
