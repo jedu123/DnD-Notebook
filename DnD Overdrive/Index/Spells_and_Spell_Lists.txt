@@ -6,6 +6,7 @@ Creation-Date: 2019-08-12T21:45:50-03:00
 
 ===== Spell Lists =====
 1. [[+Bard|Bard]]
+2. [[+Cleric|Cleric]]
 
 ===== Spells =====
 1. [[+Cantrips|Cantrips]]
