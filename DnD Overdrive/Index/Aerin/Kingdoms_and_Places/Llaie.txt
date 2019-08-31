@@ -3,53 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-07-29T17:15:38-03:00
 
 ====== Llaie ======
-Surrounded by the lush forest of Frey and the mighty Emerald Wall is Llaie, one of the three elven cities. After suffering many casualties during the Age of Strife and the Runnarian Invasion, they isolated themselves inside their territory and avoided contact with the outside world. They still keep receiving visitors and maintain the trade of ironbark, even after this self-imposed exile.
-
-===== General Info =====
-* **Official Name: **Kingdom of Etrin
-* **Actual Regent: **Queen Victoria Blutmeister
-* **Status:** Kingdom
-* **Capital:** Blutgart
-* **Largest Cities:**  Fort Norgrand, Gran Port, Blutgart, Ravenest and Etar
-* **Languages:** Ezor
-* **Races:** Mankind
-* **Demonym:** Etrinian
-* **Government:** Constitutional Monarchy
-* **Borders:** Dantarim (N), The Southern Free Islands (E, S, W)
-
-===== History =====
-In the past, the land known as Purpur Fields was ruled by The Soul Covenant, a council of non-human witches that conquered the local clans and used them like cattle to their rituals and slaves to their domains. Rising against the Covenant was almost impossible until Heinzbarn Blutmeister, an apothecary serving under the Witch Queen, found an old ritualistic scroll that contained The Blood Pact, the same spell used by the Witch Queen to bind herself to the other witches. 
-Understanding this as his only chance to free his people, Blutmeister found allies in four other clans that were willing to fight against their tyrants: the warlord Eliah Norgrand, the runemaster Helen Ravenholdt, the smuggler Vincent Etar and the pirate brothers Edward and Francis Malkadir. After the ritual's end, their bodies were changed, they became resistant to the witches' mind control and hexes, while they became able to penetrate the enemies wards. After ten years of war and revolution, they took down Bloodboiler Avanca, the Witch Queen, and renamed Purpur Fields to the Free Land of Purpur. After five more years they united the Free Land to become the Kingdom of Etrin, named after a legendary beast that served Aerin, and Blutmeister was chosen by his peers as the First King.
-Seven hundred years later Aerin was invaded by the Children of Runaar, an interplanar threat that forced the kingdoms of the continent to work together. Etrin's efforts were vital to the war, lending weapons and soldiers to spearhead the battle operations that led to the aerinian victory.
-
-===== Geography and Demography =====
-Etrin has a lot of arable land and two major rivers (Moselle and Lech) that spring in the mountains on the northern border. The weather is fair and there are four seasons of 3 months each.
-Nowadays Etrin has opened their borders a little more, negotiating with Dantarrim and Yshan for their exotic prime matters. The etrinian economy is now based on free trade, naval trade, state of art artifacts and agriculture. They used to mine the northern mountains and iron veils to supply the military and the artisans, that paired with strong agriculture and their xenophoby made them recluse and auto suficient. 
-95% of the population is human, with the other 5% being dwarves and elves. There are, although, few spellcasters comprising 15% of the populace and being majorly arcane and divine casters.
-There are four important cities besides the capital, Etar, Granport, Fort Norgrand, and Ravenest. They are located close to each border, while Blutgart stays in the center of the kingdom.
-Etar is the main commercial hub of the kingdom, it controls the flow of goods coming through the northern border, and just like Gran Port they do not have the same fear and despise for foreigners like the rest of the kingdom. The deceased Lord of Etar, Immanuel D'Etar, was a fair and wise man until his tragic death during the witch hunt against his younger daughter Eve, a natural pyromancer, while the child came to be the actual leader of the Arcane Liberation Force the whole family was purged. Nowadays Etar is managed by an elected regent that changes every two years.
-On the western border, among the rock beaches sits Ravenest, where the secretive artificers of the Ravenholdt clan watch over the city from their sanctum, the Nevermore Tower. The city is auto-sufficient and focused on its art. They design, create and maintain all kinds of artifacts and magic items, the city is full of tradesmen and alchemists ready to enroll in a craft house to create the next greatest etrinian invention. Among the members of the clan, there are the Talons, a group that works together with the Ravenholdt Inquisition to secure, contain and protect blueprints and inventions.
-Fort Norgrand is where all members of the etrinian military come from. Watching the eastern border, the fortress towers over the rocky beaches and farms. During The Sieve, the first year that suitors that want to join the military, the soldiers go through a rash mental and physical training at Fort Norgrand, where the officers root out the weak of mind and heart. After that those who didn't surrender will be sorted in the functions of the military, be it the Army, the Guard, the Navy, or the Hunters, and receive a more specific drill.
-On the southern border rests Gran Port, Malkadir's domain. Gran Port is not only, as the name implies, Etrin's naval trade hub but also a beacon of free speech in the kingdom. Due to the constant contact with other cultures and ideas, Gran Port became a haven to non-sanctioned mages, druids and any non-human beings. The Malkadir Inquisition is the only cadre to work in broad daylight, helping the Guard and Hunters around the town and hiring adventurers and mercenaries to help.
-And in the central region of the kingdom is their capital, Blutgart. The fortified city is a perfect circle divided into three areas, the core, the middle and the outer rings. The core, with the central plaza and governmental buildings; the middle ring, where most of the commerce and noble houses are; and the outer ring, the residential area for commoners and travelers. From any point of the city, you can  see the Blood Throne and the Royal Academy of Sanction.  One of the most remarkable things is that no white flowers grow in Blutgart, except in the royal palace. All others have a strange, blood crimson tint.
-
-===== Culture =====
-Etrin is a kingdom heavily influenced by their geographical isolation, the connections with the Church of Aerin, and their past conflicts with The Soul Covenant. Suspicious of foreigners, non-humans and spellcasters, living in close-knitted communities, the etrinian commoner lives to improve where they live and their quality of life.
-
-==== Politics ====
-The Kingdom of Etrin is a constitutional monarchy, divided into four powers: Legislature, Executive, Judiciary, and Moderator. The Legislature writes the laws and is formed by an assembly of sages and scholars chosen by their renown and works, gathering every three years to discuss any changes that may be needed. The Executive is formed by the Voices, representatives of each noble house and city, and must govern their domains and ensure its growth. The Judiciary applies, interpret and enforce the laws. Their members are chosen through two methods: the indication made by a non-noble Voice or through three different expertise tests made by members of the Legislature. Last, but not least, the Moderator power, also known as The Royal Assembly, is above any decision made by the other powers. It is commanded by the Blutmeister representative, that is the head of state and government, and assisted by the Council: the Counselor of Defence, a Norgrand member, the Counselor of Diplomacy, a Malkadir, the Counselor of Treasure, the Etar regent, and the Counselor of Secrets, the Ravenholdt member.
-
- 
-
-===== Factions, Places and Persons of Interest =====
-
-
-===== Legends and Rumors =====
-* Etrin is the name of a legendary beast, a chimera that vowed to not only never harm an innocent soul but to protect them the best as it could. When Dorulgar sent a horde of beasts to assault the villages of the land, Etrin holds the passage in the mountains alone, waiting for help. The villagers prayed for Aerin's intervention, but when she arrived she mistook Etrin for the enemies leader and rushed to it. The kind-hearted beast would never raise a paw against the goddess and was slain in one swift slash. After purging the place Aerin went to the people, that asked where was their defender. Aerin, ashamed of her crime said that the chimera died before her arrival but they could rest knowing that the beast would be honored. Bringing forth her celestial powers, she made a spring at the death's place and claimed the soul of Etrin to become its Animus. When the monster arose, instead of asking for a greater punishment it asked for a drop of blood to make the waters always pure. The goddess cried and asked for forgiveness, and with her tears and blood, Etrin, now Etrin the Pure, created Lech and Moselle. Thanks to that, any flower that is irrigated with their waters turn to red and purple.
-
-===== Backgrounds and Classes =====
-
-
-
+Surrounded by the lush forest of Frey and the unyielding Emerald Wall is Llaie, one of the three elven cities. After suffering many casualties during the Age of Strife and the Runnarian Invasion, they isolated themselves inside their territory and avoided contact with the outside world. They still keep receiving visitors and maintain the trade of ironbark, even after this self-imposed exile. 
+ They live in a giant commune, without rulers and kingdoms, consulting the elders and druids for guidance instead. Their laws and lives are firmly based on their traditions, with every child learning them on the baobab from the Archdruid conclave. Kardia, as is named the giant tree, is the heart and might of Frey, between its roots, is the most potent terminus on Eastern Aerin. The elves made houses on its branches, and storages inside the holes in its trunk. Under Kardia's shadow, sits the Archdruid and whoever seek his wisdom. It is said that in a moment of dire need, the baobab will make an ultimate display of power, saving Llaie and the whole forest from demise.
 
 

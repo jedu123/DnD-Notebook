@@ -52,7 +52,7 @@ You know one cantrip of your choice from the wizard spell list. Intelligence is 
 You can speak, read, and write one extra language of your choice
 
 === Fiáin (Wood Elf) ===
-A fiáin has sharpened senses, a strong intuition and a powerful connection to nature. Your fleet feet can carry you quickly and stealthily through the forests. After the losses during the Runnarian Invasion, your kind became reclusive, living around the giant baobab, Ysa, and tending to the woods that protect them. The fiáin can be found inside Llaie unless some strong reason moves one to the life of adventuring.
+A fiáin has sharpened senses, a strong intuition and a powerful connection to nature. Your fleet feet can carry you quickly and stealthily through the forests. After the losses during the Runnarian Invasion, your kind became reclusive, living around the giant baobab, Kardia, and tending to the woods that protect them. The fiáin can be found inside Llaie unless some strong reason moves one to the life of adventuring.
 
 == Ability Score Increase ==
 Wis+1
