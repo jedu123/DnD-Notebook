@@ -4,7 +4,6 @@ Creation-Date: 2019-08-26T00:38:26-03:00
 
 ====== Halfling ======
 
-
 ==== Ability Score Increase ====
 Dex+2
 

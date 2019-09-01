@@ -5,10 +5,13 @@ Creation-Date: 2019-08-22T16:07:19-03:00
 ====== Small Folk (Beaglann) ======
 The Beaglann is composed of two different races that work together since before the divine clash: Halflings and Gnomes. Both kinds extremely empathetic and resourceful, they defend each other, the halflings with their connection to nature and the gnomes with their ingenuity. In Aerin, they inhabit the kingdoms Durgora and Gijur, and their alliance inspired the founding of the League of Aerin.
 
-===== Halflings =====
+===== Halflings (Tapaidh) =====
 The comforts of home are the goals of most halflings' lives: a place to settle in peace and quiet; a blazing fire and a generous meal; excellent drink and fine conversation. The open road lures them and the vast horizon to discover the wonders of new lands and peoples. But even these wanderers love peace, food, hearth, and, most of all, their homeland.
  The diminutive halflings survive in a world full of larger creatures by bravery and diplomacy. Standing about 3 feet tall, they appear relatively harmless and so have managed to survive for centuries avoiding unnecessary wars and political conflicts. They are inclined to be stout, weighing between 40 and 45 pounds. Halflings' skin ranges from tan to pale with a ruddy cast, and their hair is usually brown or sandy brown and wavy. They have brown or hazel eyes. Halfling men often sport long sideburns, but beards are rare among them and moustaches even more so. They like to wear simple, comfortable, and practical clothes, favouring bright colours.
  Halfling practicality extends beyond their clothing. They're concerned with basic needs and simple pleasures and have little use for ostentation. Even the wealthiest halflings keep their treasures locked in a cellar rather than on display for all to see. They have a knack for finding the most straightforward solution to a problem and have little patience for dithering.
 
 ==== Halfling Heart ====
-Thanks to a unique link to nature and an almost infinite willingness to fight for justice, all halflings can go from calm wanderer knights to fierce justice defenders in moments. Those who follow the path of heroism usually embrace this side of them,  turning to brave and mighty adventurers.
+The halflings are famous for being inclined to heroism. They hold courage and kindness in high regard, understanding that every action to bring another one's happiness and safety is heroic; therefore, even those without the resolution to become adventurers do their best to help whoever is in need.
+
+===== Gnomes (Eadar-ghnàth) =====
+A constant hum of busy activity pervades the warrens and neighborhoods where gnomes form their close-knit communities. Louder sounds punctuate the hum: a crunch of grinding gears here, a minor explosion there, a yelp of surprise or triumph, and especially bursts of laughter. Gnomes take delight in life, enjoying every moment of invention, exploration, investigation, creation, and play.

@@ -7,39 +7,17 @@ Creation-Date: 2019-07-29T17:15:24-03:00
 The region known as The Great Marshes is a large moor that sits between Dantarrim, Yshan, and Llaie. Once a sanctum to Meriol, God of Treachery and Survival, the place became a quagmire during the Divine Clash and the dark energies that were used still wound the land. The people that live there try their best to make most of their situation, fighting every day against creatures and the curse that is enrooted in the quagmire they live in.
 
 ===== General Info =====
-* **Official Name: **Kingdom of Etrin
-* **Actual Regent: **Queen Victoria Blutmeister
-* **Status:** Kingdom
-* **Capital:** Blutgart
-* **Largest Cities:**  Fort Norgrand, Gran Port, Blutgart, Ravenest and Etar
-* **Languages:** Ezor
-* **Races:** Mankind
-* **Demonym:** Etrinian
-* **Government:** Constitutional Monarchy
-* **Borders:** Dantarim (N), The Southern Free Islands (E, S, W)
+* **Official Name: **
+* **Actual Regent: **
+* **Status:** 
+* **Capital:** 
+* **Largest Cities:**  
+* **Languages:** 
+* **Races:** 
+* **Demonym:** 
+* **Government:** 
+* **Borders:** 
 
 ===== History =====
 It is said that Meriol, the God of Treachery, used the place as a hideout during the Divine Clash until his battle against Jari, Goddess of Undeath, over the Otherside. Before his arrival, the place was covered in a dense and green forest, but his presence was enough to turn it into a treacherous maze of poison plants and twisted creatures. Jari, instead of waiting for him to accept the formal challenge, assaulted the place with her army of living dead and turned the place into a giant swamp with her magic, leaving no other choice to Meriol than fighting her head-on and suffering a humiliating defeat.
-
-===== Geography and Demography =====
-
-
-===== Culture =====
-Etrin is a kingdom heavily influenced by their geographical isolation, the connections with the Church of Aerin, and their past conflicts with The Soul Covenant. Suspicious of foreigners, non-humans and spellcasters, living in close-knitted communities, the etrinian commoner lives to improve where they live and their quality of life.
-
-==== Politics ====
-The Kingdom of Etrin is a constitutional monarchy, divided into four powers: Legislature, Executive, Judiciary, and Moderator. The Legislature writes the laws and is formed by an assembly of sages and scholars chosen by their renown and works, gathering every three years to discuss any changes that may be needed. The Executive is formed by the Voices, representatives of each noble house and city, and must govern their domains and ensure its growth. The Judiciary applies, interpret and enforce the laws. Their members are chosen through two methods: the indication made by a non-noble Voice or through three different expertise tests made by members of the Legislature. Last, but not least, the Moderator power, also known as The Royal Assembly, is above any decision made by the other powers. It is commanded by the Blutmeister representative, that is the head of state and government, and assisted by the Council: the Counselor of Defence, a Norgrand member, the Counselor of Diplomacy, a Malkadir, the Counselor of Treasure, the Etar regent, and the Counselor of Secrets, the Ravenholdt member.
-
- 
-
-===== Factions, Places and Persons of Interest =====
-
-
-===== Legends and Rumors =====
-* Etrin is the name of a legendary beast, a chimera that vowed to not only never harm an innocent soul but to protect them the best as it could. When Dorulgar sent a horde of beasts to assault the villages of the land, Etrin holds the passage in the mountains alone, waiting for help. The villagers prayed for Aerin's intervention, but when she arrived she mistook Etrin for the enemies leader and rushed to it. The kind-hearted beast would never raise a paw against the goddess and was slain in one swift slash. After purging the place Aerin went to the people, that asked where was their defender. Aerin, ashamed of her crime said that the chimera died before her arrival but they could rest knowing that the beast would be honored. Bringing forth her celestial powers, she made a spring at the death's place and claimed the soul of Etrin to become its Animus. When the monster arose, instead of asking for a greater punishment it asked for a drop of blood to make the waters always pure. The goddess cried and asked for forgiveness, and with her tears and blood, Etrin, now Etrin the Pure, created Lech and Moselle. Thanks to that, any flower that is irrigated with their waters turn to red and purple.
-
-===== Backgrounds and Classes =====
-
-
-
 
