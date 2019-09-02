@@ -37,7 +37,7 @@ You can speak, read, and write Ezor and Cainnt. They write very little, so they 
 ==== Subraces ====
 
 === Luathcas (Lightfoot) ===
-As a luathcas, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others. In the Aerin, they have spread the farthest and thus are the most common variety. These are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life.
+As a luathcas, you can easily hide from notice, even using other people as cover. You're inclined to be affable and get along well with others. In Aerin, they have spread the farthest and thus are the most common variety. These are more prone to wanderlust than other halflings, and often dwell alongside other races or take up a nomadic life.
 
 == Ability Score Increase ==
 Cha+1

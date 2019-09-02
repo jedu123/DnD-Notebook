@@ -12,11 +12,10 @@ Creation-Date: 2019-01-15T13:35:40-03:00
 		b. Hill Dwarf (Hugen)
 		c. Mountain Dwarf (Bergen)
 	
-	3. [[+Elvenkind|Elvenkind]]
+	3. [[+Elvenkind|Elvenkind]] (Síofra)
 		a. High Elf (Uasal)
 		b. Wood Elf (Fiáin)
-		c. Drow
-		d. Sea Elf (Uisceach)
+		c. Sea Elf (Uisceach)
 
 	4. [[+Small Folk|Small Folk]]
 		a. Halfling
