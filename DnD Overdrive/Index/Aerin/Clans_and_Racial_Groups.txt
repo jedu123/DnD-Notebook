@@ -17,9 +17,9 @@ Creation-Date: 2019-01-15T13:35:40-03:00
 		b. Wood Elf (Fiáin)
 		c. Sea Elf (Uisceach)
 
-	4. [[+Small Folk|Small Folk]]
-		a. Halfling
-		b. Gnome
+	4. [[+Small Folk|Small Folk]] (Beaglann)
+		a. Halfling (Tapaidh)
+		b. Gnome (Eadar-ghnàth)
 
 	5. Nomads
 		a. Half-Elf
