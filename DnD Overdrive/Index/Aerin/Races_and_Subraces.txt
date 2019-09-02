@@ -8,7 +8,7 @@ Although in different civilizations, some races come from the same racial tree. 
 * [[+Dwarf|Dwarf]]
 * [[+Elf|Elf]]
 * [[+Halfling|Halfling]]
-* Human
+* [[+Human|Human]]
 * Dragonborn
 * [[+Gnome|Gnome]]
 

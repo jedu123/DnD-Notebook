@@ -4,7 +4,7 @@ Creation-Date: 2019-01-15T13:35:40-03:00
 
 ====== Clans and Racial Groups ======
 
-	1. Dragonblooded
+	1. [[+Dragonblooded|Dragonblooded]]
 		a. Dragonborn
 
 	2. [[+Dwarvenkind|Dwarvenkind]] (Zwerg)
@@ -25,7 +25,7 @@ Creation-Date: 2019-01-15T13:35:40-03:00
 		a. Half-Elf
 		b. Half-Orc
 
-	6. Mankind
+	6. [[+Mankind|Mankind]]
 		a. Human
 	
 	7. Duskborn

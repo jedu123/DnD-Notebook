@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-02T16:28:50-03:00
+
+====== Human ======
+
+==== Age ====
+Humans reach adulthood in their late teens and live less than a century.
+
+==== Alignment ====
+ Humans tend toward no particular alignment. The best and the worst are found among them.
+
+==== Size ====
+Humans vary widely in height and build, from barely 1,5 metres to well over 1,8 metres tall. Regardless of your position in that range, your size is Medium.
+
+==== Speed ====
+Your base walking speed is 30 feet.
+
+==== Languages ====
+You can speak, read, and write Ezor and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+
+==== Subraces ====
+
+=== Common Human ===
+It’s hard to make generalizations about humans, but your human character has these traits.
+
+== Ability Score Increase ==
+All+1
+
+=== Born Genius ===
+Some are born to greatness, some don't. You, fortunately, are.
+
+== Ability Score Increase ==
+Two different ability scores of your choice +1
+
+== Extra Skills ==
+You gain proficiency in one skill of your choice.
+
+== Extra Feat ==
+You gain one feat of your choice.
+
