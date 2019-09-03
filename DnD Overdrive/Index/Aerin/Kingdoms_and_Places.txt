@@ -25,7 +25,7 @@ Creation-Date: 2019-01-14T15:57:26-03:00
 18. [[+Padaro|Padaro]] (Free Folks, Travelers and Nomads)
 19. The Bastion (Travelers and Nomads) 
 20. Titan Spine (Mountainfolk and Nomads)
-21. Sea of Blades (???)
+21. [[+Sea of Blades|Sea of Blades]] (???)
 22. Sleeping Seas
 	a. Northern Free Islands (Sea Elves)
 	b. Coralrealm and the Stony Silence (Merfolk)

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-02T21:49:46-03:00
+
+====== Sea of Blades ======
+A Cicatriz de Aerin. Uma gigantesca faixa de ferro que corta o continente de uma ponta a outra. Outrora a principal linha de defesa dos Filhos de Runar, agora ela é uma marca no continente que  impede a batalha contra Dune de ser esquecida. Dizem que em paragens inóspitas e pouco conhecidas do Deserto de Aço ainda há sobreviventes dos Filhos de Runar esperando o momento de sua vingança.
+
+

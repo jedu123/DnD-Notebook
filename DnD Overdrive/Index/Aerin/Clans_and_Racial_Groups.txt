@@ -21,7 +21,7 @@ Creation-Date: 2019-01-15T13:35:40-03:00
 		a. Halfling (Tapaidh)
 		b. Gnome (Eadar-ghnàth)
 
-	5. Nomads
+	5. [[+Nomads|Nomads]]
 		a. Half-Elf
 		b. Half-Orc
 
@@ -32,7 +32,7 @@ Creation-Date: 2019-01-15T13:35:40-03:00
 		a. Drow
 		b. Tieflings
 	
-	8. Warring Hordes
+	8. [[+Warring Hordes|Warring Hordes]]
 
 	9. Mountainfolk
 
