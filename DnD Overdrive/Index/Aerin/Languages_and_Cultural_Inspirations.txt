@@ -15,6 +15,7 @@ Reference for languages and cultures
 * Teanga (Elvish) = Irish - https://www.focloir.ie/ ((Ulster Pronunciation))
 * Cainnt (Halfling/Gnome) = Gaelic - https://en.glosbe.com/en/gd/
 * Yazyk (Draconic) = Russian - https://en.bab.la/dictionary/russian-english/  // Cyrillic Script - https://www.omniglot.com/writing/cyrillic.htm
+* Nyelv (Orcish) = Hungarian - Google Translate
 
 ===== Cultures =====
 * Etrin: Late Renaissance Germany
