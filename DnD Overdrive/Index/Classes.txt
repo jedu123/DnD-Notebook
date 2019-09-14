@@ -11,7 +11,7 @@ Creation-Date: 2019-08-11T16:56:43-03:00
 	a. [[Classes:Bard:College of Lore|College of Lore]]
 	b. [[Classes:Bard:College of Valor|College of Valor]]
 	c. [[Classes:Bard:College of Charity|College of Charity]]
-3. Cleric
+3. [[+Cleric|Cleric]]
 4. Druid
 5. Fighter
 6. Monk
