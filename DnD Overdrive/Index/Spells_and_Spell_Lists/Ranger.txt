@@ -1,0 +1,62 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-18T17:39:10-03:00
+
+====== Ranger Spell List ======
+
+* [[Spells and Spell Lists:1st-Level|1st Level]]
+	Alarm
+	Animal Friendship
+	Cure Wounds
+	Detect Magic
+	Detect Poison and Disease
+	Ensnaring Strike
+	Fog Cloud
+	Goodberry
+	Hail of Thorns
+	Hunter’s Mark
+	Jump
+	Longstrider
+	Speak with Animals
+
+* [[Spells and Spell Lists:2nd-Level|2nd Level]]
+	Animal Messenger
+	Barkskin
+	Beast Sense
+	Cordon of Arrows
+	Darkvision
+	Find Traps
+	Lesser Restoration
+	Locate Animals or Plants
+	Locate Object
+	Pass without Trace
+	Protection from Poison
+	Silence
+	Spike Growth
+
+* [[Spells and Spell Lists:3rd-Level|3rd Level]]
+	Conjure Animals
+	Conjure Barrage
+	Daylight
+	Lightning Arrow
+	Nondetection
+	Plant Growth
+	Protection from Energy
+	Speak with Plants
+	Water Breathing
+	Water Walk
+	Wind Wall
+
+* [[Spells and Spell Lists:4th-Level|4th Level]]
+	Conjure Woodland Beings
+	Freedom of Movement
+	Grasping Vine
+	Locate Creature
+	Stoneskin
+
+* [[Spells and Spell Lists:5th-Level|5th Level]]
+	Commune with Nature
+	Conjure Volley
+	Swift Quiver
+	Tree Stride
+

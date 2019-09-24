@@ -3,23 +3,34 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-08-11T16:56:43-03:00
 
 ====== Classes ======
-
 1. [[+Barbarian|Barbarian]]
-	a. [[Classes:Barbarian:Path of the Berserker|Path of the Berserker]]
-	b. [[Classes:Barbarian:Path of the Totem Warrior|Path of the Totem Warrior]]
+	* [[Classes:Barbarian:Path of the Berserker|Path of the Berserker]]
+	* [[Classes:Barbarian:Path of the Totem Warrior|Path of the Totem Warrior]]
 2. [[+Bard|Bard]]
-	a. [[Classes:Bard:College of Lore|College of Lore]]
-	b. [[Classes:Bard:College of Valor|College of Valor]]
-	c. [[Classes:Bard:College of Charity|College of Charity]]
+	* [[Classes:Bard:College of Lore|College of Lore]]
+	* [[Classes:Bard:College of Valor|College of Valor]]
+	* [[Classes:Bard:College of Charity|College of Charity]]
 3. [[+Cleric|Cleric]]
-4. Druid
-5. Fighter
-6. Monk
-7. Paladin
-8. Ranger
-9. Rogue
-10. Sorcerer
-11. Warlock
-12. Wizard
+	* [[Classes:Cleric:Domain of Knowledge|Domain of Knowledge]]
+	* [[Classes:Cleric:Domain of Life|Domain of Life]]
+	* [[Classes:Cleric:Domain of Light|Domain of Light]]
+	* [[Classes:Cleric:Domain of Nature|Domain of Nature]]
+	* [[Classes:Cleric:Domain of Tempest|Domain of Tempest]]
+	* [[Classes:Cleric:Domain of Trickery|Domain of Trickery]]
+	* [[Classes:Cleric:Domain of War|Domain of War]]
+4. [[+Druid|Druid]]
+	* [[Classes:Druid:Circle of the Land|Circle of the Land]]
+	* [[Classes:Druid:Circle of the Moon|Circle of the Moon]]
+5. [[+Fighter|Fighter]] 
+	* [[Classes:Fighter:Champion|Champion]]
+	* [[Classes:Fighter:Battle Master|Battle Master]]
+	* [[Classes:Fighter:Eldritch Knight|Eldritch Knight]]
+6. [[+Monk|Monk]]
+7. [[+Paladin|Paladin]]
+8. [[+Ranger|Ranger]]
+9. [[+Rogue|Rogue]]
+10. [[+Sorcerer|Sorcerer]]
+11. [[+Warlock|Warlock]]
+12. [[+Wizard|Wizard]]
 
 

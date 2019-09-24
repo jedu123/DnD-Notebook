@@ -10,7 +10,7 @@ Reference for languages and cultures
 
 * Ezor (Common) = English/Portuguese - https://www.lexico.com/en/ / https://www.linguee.com.br/
 * High Ezor (Academic Common) = Esperanto - https://en.bab.la/dictionary/english-esperanto/
-* Arcana (Spellcasting Language) = Latin - https://www.online-latin-dictionary.com/
+* Arcana (Spellcasting Language) = Latin - https://latin-dictionary.net/
 * Zwergg (Dwarvish) = German - https://www.dict.cc/?l=e
 * Teanga (Elvish) = Irish - https://www.focloir.ie/ ((Ulster Pronunciation))
 * Cainnt (Halfling/Gnome) = Gaelic - https://en.glosbe.com/en/gd/

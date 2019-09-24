@@ -2,9 +2,17 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-08-21T22:34:41-03:00
 
-====== 2nd-Level ======
+====== 2nd-Level (PAROU EM CORDON OF ARROWS) ======
 
 ===== Abjuration =====
+
+==== Arcane Lock ====
+**Casting Time:** 1 action
+**Range**: Touch
+**Components**: V, S, M (gold dust worth at least 25 gp, which the spell consumes)
+**Duration**: Until dispelled
+You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting knock on the object suppresses arcane lock for 10 minutes.
+While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.
 
 ==== Aid ====
 **Casting Time: **1 action
@@ -17,10 +25,49 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 ===== Conjuration =====
 
+==== Cloud of Daggers ====
+**Casting Time**: 1 action
+**Range**: 60 feet
+**Components**: V, S, M (a sliver of glass)
+**Duration**: Concentration, up to 1 minute
+You fill the air with spinning daggers in a cube 5 feet on each side, centered on a point you choose within range. A creature takes 4d4 slashing damage when it enters the spell’s area for the first time on a turn or starts its turn there.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd.
+
 ===== Divination =====
 
+==== Beast Sense (Ritual) ====
+**Casting Time:** 1 action
+**Range**: Touch
+**Components**: S
+**Duration**: Concentration, up to 1 hour
+You touch a willing beast. For the duration of the spell, you can use your action to see through the beast’s eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses. While perceiving through the beast’s senses, you gain the benefits of any special senses possessed by that creature, though you are blinded and deafened to your own surroundings.
+
+==== Augury (Ritual) ====
+**Casting Time:** 1 minute
+**Range**: Self
+**Components**: V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)
+**Duration**: Instantaneous
+By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens:
+
+//Weal//, for good results
+//Woe//, for bad results
+//Weal// and //woe//, for both good and bad results
+//Nothing//, for results that aren’t especially good or bad
+
+The spell doesn’t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.
+If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
 ===== Enchantment =====
+
+==== Calm Emotions ====
+**Casting Time**: 1 action
+**Range**: 60 feet
+**Components**: V, S
+**Duration**: Concentration, up to 1 minute
+You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.
+You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
+Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the DM rules otherwise.
 
 ==== Animal Messenger ====
 **Casting Time: **1 action (Ritual)
@@ -32,14 +79,60 @@ By means of this spell, you use an animal to deliver a message. Choose a Tiny be
 
 ===== Evocation =====
 
+==== Continual Flame ====
+**Casting Time**: 1 action
+**Range**: Touch
+**Components**: V, S, M (ruby dust worth 50 gp, which the spell consumes)
+**Duration**: Until dispelled
+A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn’t use oxygen. A continual flame can be covered or hidden but not smothered or quenched.
+
+==== Branding Smite ====
+**Casting** **Time**: 1 bonus action
+**Range**: Self
+**Components**: V
+**Duration**: Concentration, up to 1 minute
+The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it’s invisible, and the target sheds dim light in a 5-foot radius and can’t become invisible until the spell ends.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.
 
 ===== Illusion =====
 
+==== Blur ====
+**Casting Time**: 1 action
+**Range**: Self
+**Components**: V
+**Duration**: Concentration, up to 1 minute
+Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn’t rely on sight, as with blindsight, or can see through illusions, as with truesight.
 
 ===== Necromancy =====
 
+==== Blindness/Deafness ====
+**Casting Time:** 1 action
+**Range**: 30 feet
+**Components**: V
+**Duration**: 1 minute
+You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
 ===== Transmutation =====
+
+==== Cordon of Arrows ====
+**Casting Time:** 1 action
+**Range**: 5 feet
+**Components**: V, S, M (four or more arrows or bolts)
+**Duration**: 8 hours
+You plant four pieces of nonmagical ammunition—arrows or crossbow bolts—in the ground within range and lay magic upon them to protect an area. Until the spell ends, whenever a creature other than you comes within 30 feet of the ammunition for the first time on a turn or ends its turn there, one piece of ammunition flies up to strike it. The creature must succeed on a Dexterity saving throw or take 1d6 piercing damage. The piece of ammunition is then destroyed. The spell ends when no ammunition remains.
+When you cast this spell, you can designate any creatures you choose, and the spell ignores them.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the amount of ammunition that can be affected increases by two for each slot level above 2nd.
+
+==== Barkskin ====
+**Casting Time:** 1 action
+**Range**: Touch
+**Components**: V, S, M (a handful of oak bark)
+**Duration**: Concentration, up to 1 hour
+You touch a willing creature. Until the spell ends, the target’s skin has a rough, bark-like appearance, and the target’s AC can’t be less than 16, regardless of what kind of armor it is wearing.
 
 ==== Alter Self ====
 **Casting Time: **1 action

@@ -1,0 +1,140 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-18T17:21:23-03:00
+
+====== Druid Spell List ======
+
+* [[Spells and Spell Lists:Cantrips|Cantrips]]
+	Druidcraft
+	Guidance
+	Mending
+	Poison Spray
+	Produce Flame
+	Resistance
+	Shillelagh
+	Thorn Whip
+
+* [[Spells and Spell Lists:1st-Level|1st Level]]
+	Animal Friendship
+	Charm Person
+	Create or Destroy Water
+	Cure Wounds
+	Detect Magic
+	Detect Poison and Disease
+	Entangle
+	Faerie Fire
+	Fog Cloud
+	Goodberry
+	Healing Word
+	Jump
+	Longstrider
+	Purify Food and Drink
+	Speak with Animals
+	Thunderwave
+
+* [[Spells and Spell Lists:2nd-Level|2nd Level]]
+	Animal Messenger
+	Barkskin
+	Beast Sense
+	Darkvision
+	Enhance Ability
+	Find Traps
+	Flame Blade
+	Flaming Sphere
+	Gust of Wind
+	Heat Metal
+	Hold Person
+	Lesser Restoration
+	Locate Animals or Plants
+	Locate Object
+	Moonbeam
+	Pass without Trace
+	Protection from Poison
+	Spike Growth
+
+* [[Spells and Spell Lists:3rd-Level|3rd Level]]
+	Call Lightning
+	Conjure Animals
+	Daylight
+	Dispel Magic
+	Feign Death
+	Meld into Stone
+	Plant Growth
+	Protection from Energy
+	Sleet Storm
+	Speak with Plants
+	Water Breathing
+	Water Walk
+	Wind Wall
+
+* [[Spells and Spell Lists:4th-Level|4th Level]]
+	Blight
+	Confusion
+	Conjure Minor Elementals
+	Conjure Woodland Beings
+	Control Water
+	Dominate Beast
+	Freedom of Movement
+	Giant Insect
+	Grasping Vine
+	Hallucinatory Terrain
+	Ice Storm
+	Locate Creature
+	Polymorph
+	Stone Shape
+	Stoneskin
+	Wall of Fire
+
+* [[Spells and Spell Lists:5th-Level|5th Level]]
+	Antilife Shell
+	Awaken
+	Commune with Nature
+	Conjure Elemental
+	Contagion
+	Geas
+	Greater Restoration
+	Insect Plague
+	Mass Cure Wounds
+	Planar Binding
+	Reincarnate
+	Scrying
+	Tree Stride
+	Wall of Stone
+
+* [[Spells and Spell Lists:6th-Level|6th Level]]
+	Conjure Fey
+	Find the Path
+	Heal
+	Heroes’ Feast
+	Move Earth
+	Sunbeam
+	Transport via Plants
+	Wall of Thorns
+	Wind Walk
+
+* [[Spells and Spell Lists:7th-Level|7th Level]]
+	Fire Storm
+	Mirage Arcane
+	Plane Shift
+	Regenerate
+	Reverse Gravity
+
+* [[Spells and Spell Lists:8th-Level|8th Level]]
+	Animal Shapes
+	Antipathy/Sympathy
+	Control Weather
+	Earthquake
+	Feeblemind
+	Sunburst
+	Tsunami
+
+* [[Spells and Spell Lists:9th-Level|9th Level]]
+	Foresight
+	Shapechange
+	Storm of Vengeance
+	True Resurrection
+
+
+
+
+

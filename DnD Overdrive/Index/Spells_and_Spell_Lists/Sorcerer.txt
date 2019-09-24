@@ -1,0 +1,160 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-18T17:43:11-03:00
+
+====== Sorcerer ======
+* [[Spells and Spell Lists:Cantrips|Cantrips]]
+	Acid Splash
+	Blade Ward
+	Chill Touch
+	Dancing Lights
+	Fire Bolt
+	Friends
+	Light
+	Mage Hand
+	Mending
+	Message
+	Minor Illusion
+	Poison Spray
+	Prestidigitation
+	Ray of Frost
+	Shocking Grasp
+	True Strike
+
+* [[Spells and Spell Lists:1st-Level|1st Level]]
+	Burning Hands
+	Charm Person
+	Chromatic Orb
+	Color Spray
+	Comprehend Languages
+	Detect Magic
+	Disguise Self
+	Expeditious Retreat
+	False Life
+	Feather Fall
+	Fog Cloud
+	Jump
+	Mage Armor
+	Magic Missile
+	Ray of Sickness
+	Shield
+	Silent Image
+	Sleep
+	Thunderwave
+	Witch Bolt
+
+* [[Spells and Spell Lists:2nd-Level|2nd Level]]
+	Alter Self
+	Blindness/Deafness
+	Blur
+	Cloud of Daggers
+	Crown of Madness
+	Darkness
+	Darkvision
+	Detect Thoughts
+	Enhance Ability
+	Enlarge/Reduce
+	Gust of Wind
+	Hold Person
+	Invisibility
+	Knock
+	Levitate
+	Mirror Image
+	Misty Step
+	Phantasmal Force
+	Scorching Ray
+	See Invisibility
+	Shatter
+	Spider Climb
+	Suggestion
+	Web
+
+* [[Spells and Spell Lists:3rd-Level|3rd Level]]
+	Blink
+	Clairvoyance
+	Counterspell
+	Daylight
+	Dispel Magic
+	Fear
+	Fireball
+	Fly
+	Gaseous Form
+	Haste
+	Hypnotic Pattern
+	Lightning Bolt
+	Major Image
+	Protection from Energy
+	Sleet Storm
+	Slow
+	Stinking Cloud
+	Tongues
+	Water Breathing
+	Water Walk
+
+* [[Spells and Spell Lists:4th-Level|4th Level]]
+	Banishment
+	Blight
+	Confusion
+	Dimension Door
+	Dominate Beast
+	Greater Invisibility
+	Ice Storm
+	Polymorph
+	Stoneskin
+	Wall of Fire
+
+* [[Spells and Spell Lists:5th-Level|5th Level]]
+	Animate Objects
+	Cloudkill
+	Cone of Cold
+	Creation
+	Dominate Person
+	Hold Monster
+	Insect Plague
+	Seeming
+	Telekinesis
+	Teleportation Circle
+	Wall of Stone
+
+* [[Spells and Spell Lists:6th-Level|6th Level]]
+	Arcane Gate
+	Chain Lightning
+	Circle of Death
+	Disintegrate
+	Eyebite
+	Globe of Invulnerability
+	Mass Suggestion
+	Move Earth
+	Sunbeam
+	True Seeing
+
+* [[Spells and Spell Lists:7th-Level|7th Level]]
+	Delayed Blast Fireball
+	Etherealness
+	Finger of Death
+	Fire Storm
+	Plane Shift
+	Prismatic Spray
+	Reverse Gravity
+	Teleport
+
+* [[Spells and Spell Lists:8th-Level|8th Level]]
+	Dominate Monster
+	Earthquake
+	Incendiary Cloud
+	Power Word Stun
+	Sunburst
+
+* [[Spells and Spell Lists:9th-Level|9th Level]]
+	Gate
+	Meteor Swarm
+	Power Word Kill
+	Time Stop
+	Wish
+
+
+
+
+
+
+
