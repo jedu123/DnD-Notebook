@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-08-21T22:34:41-03:00
 
-====== 2nd-Level (PAROU EM CORDON OF ARROWS) ======
+====== 2nd-Level (PAROU EM HEAT METAL) ======
 
 ===== Abjuration =====
 
@@ -25,6 +25,28 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 ===== Conjuration =====
 
+==== Flaming Sphere ====
+**Casting** Time: 1 action
+**Range**: 60 feet
+**Components**: V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)
+**Duration**: Concentration, up to 1 minute
+A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
+As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere into a creature, that creature must make the saving throw against the sphere’s damage, and the sphere stops moving this turn.
+When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
+
+==== Find Steed ====
+**Casting** **Time**: 10 minutes
+**Range**: 30 feet
+**Components**: V, S
+**Duration**: Instantaneous
+You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a warhorse, a pony, a camel, an elk, or a mastiff. (Your DM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
+Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit. While mounted on your steed, you can make any spell you cast that targets only you also target your steed.
+When the steed drops to 0 hit points, it disappears, leaving behind no physical form. You can also dismiss your steed at any time as an action, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its hit point maximum.
+While your steed is within 1 mile of you, you can communicate with each other telepathically.
+You can’t have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear.
+
 ==== Cloud of Daggers ====
 **Casting Time**: 1 action
 **Range**: 60 feet
@@ -35,6 +57,25 @@ You fill the air with spinning daggers in a cube 5 feet on each side, centered o
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd.
 
 ===== Divination =====
+
+==== Find Traps ====
+**Casting** **Time**: 1 action
+**Range**: 120 feet
+**Components**: V, S
+**Duration**: Instantaneous
+You sense the presence of any trap within range that is within line of sight. A trap, for the purpose of this spell, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable, which was specifically intended as such by its creator. Thus, the spell would sense an area affected by the alarm spell, a glyph of warding, or a mechanical pit trap, but it would not reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.
+This spell merely reveals that a trap is present. You don’t learn the location of each trap, but you do learn the general nature of the danger posed by a trap you sense.
+
+==== Detect Thoughts ====
+**Casting** **Time**: 1 action
+**Range**: Self
+**Components**: V, S, M (a copper piece)
+**Duration**: Concentration, up to 1 minute
+For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn’t speak any language, the creature is unaffected.
+You initially learn the surface thoughts of the creature—what is most on its mind in that moment. As an action, you can either shift your attention to another creature’s thoughts or attempt to probe deeper into the same creature’s mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature’s thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.
+Questions verbally directed at the target creature naturally shape the course of its thoughts, so this spell is particularly effective as part of an interrogation.
+You can also use this spell to detect the presence of thinking creatures you can’t see. When you cast the spell or as your action during the duration, you can search for thoughts within 30 feet of you. The spell can penetrate barriers, but 2 feet of rock, 2 inches of any metal other than lead, or a thin sheet of lead blocks you. You can’t detect a creature with an Intelligence of 3 or lower or one that doesn’t speak any language.
+Once you detect the presence of a creature in this way, you can read its thoughts for the rest of the duration as described above, even if you can’t see it, but it must still be within range.
 
 ==== Beast Sense (Ritual) ====
 **Casting Time:** 1 action
@@ -60,6 +101,21 @@ If you cast the spell two or more times before completing your next long rest, t
 
 ===== Enchantment =====
 
+==== Enthrall ====
+**Casting** **Time**: 1 action
+**Range**: 60 feet
+**Components**: V, S
+**Duration**: 1 minute
+You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can’t be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak.
+
+==== Crown of Madness ====
+**Casting Time**: 1 action
+**Range**: 120 feet
+**Components**: V, S
+**Duration**: Concentration, up to 1 minute
+One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration. While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach.
+On your subsequent turns, you must use your action to maintain control over the target, or the spell ends. Also, the target can make a Wisdom saving throw at the end of each of its turns. On a success, the spell ends.
+
 ==== Calm Emotions ====
 **Casting Time**: 1 action
 **Range**: 60 feet
@@ -78,6 +134,36 @@ By means of this spell, you use an animal to deliver a message. Choose a Tiny be
 **At Higher Levels.** If you cast this spell using a spell slot of 3nd level or higher, the duration of the spell increases by 48 hours for each slot level above 2nd.
 
 ===== Evocation =====
+
+==== Gust of Wind ====
+**Casting Time**: 1 action
+**Range**: Self (60-foot line)
+**Components**: V, S, M (a legume seed)
+**Duration**: Concentration, up to 1 minute
+A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell’s duration. Each creature that starts its turn in the line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the line.
+Any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to you.
+The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
+As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
+
+==== Flame Blade ====
+**Casting** **Time**: 1 bonus action
+**Range**: Self
+**Components**: V, S, M (leaf of sumac)
+**Duration**: Concentration, up to 10 minutes
+You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action.
+You can use your action to make a melee spell attack with the fiery blade. On a hit, the target takes 3d6 fire damage.
+The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+
+**At Higher Levels**. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 2nd.
+
+==== Darkness ====
+**Casting Time:** 1 action
+**Range:** 60 feet
+**Components:** V, M (bat fur and a drop of pitch or piece of coal)
+**Duration:** Concentration, up to 10 minutes
+Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it.
+If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
+If any of this spell’s area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.
 
 ==== Continual Flame ====
 **Casting Time**: 1 action
@@ -106,6 +192,14 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 ===== Necromancy =====
 
+==== Gentle Repose ====
+**Casting Time:** 1 action
+**Range**: Touch
+**Components**: V, S, M (a pinch of salt and one copper piece placed on each of the corpse’s eyes, which must remain there for the duration)
+**Duration**: 10 days
+You touch a corpse or other remains. For the duration, the target is protected from decay and can’t become undead.
+The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don’t count against the time limit of spells such as //Raise Dead.//
+
 ==== Blindness/Deafness ====
 **Casting Time:** 1 action
 **Range**: 30 feet
@@ -116,6 +210,56 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
 ===== Transmutation =====
+
+==== Heat Metal ====
+**Casting Time:** 1 action
+**Range**: 60 feet
+**Components**: V, S, M (a piece of iron and a flame)
+**Duration**: Concentration, up to 1 minute
+Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
+If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn’t drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn.
+
+**At Higher Levels**. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+
+==== Enlarge/Reduce ====
+**Casting** **Time**: 1 action
+**Range**: 30 feet
+**Components**: V, S, M (a pinch of powdered iron)
+**Duration**: Concentration, up to 1 minute
+You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.
+If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.
+**Enlarge.** 
+The target’s size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category—from Medium to Large, for example. If there isn’t enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target’s weapons also grow to match its new size. While these weapons are enlarged, the target’s attacks with them deal 1d4 extra damage.
+**Reduce.**
+The target’s size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category—from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target’s weapons also shrink to match its new size. While these weapons are reduced, the target’s attacks with them deal 1d4 less damage (this can’t reduce the damage below 1).
+
+==== Enhance Ability ====
+**Casting Time**: 1 action
+**Range**: Touch
+**Components**: V, S, M (fur or a feather from a beast)
+**Duration**: Concentration, up to 1 hour
+You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.
+**Bear’s Endurance.** 
+The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.
+**Bull’s Strength.** 
+The target has advantage on Strength checks, and his or her carrying capacity doubles.
+**Cat’s Grace.** 
+The target has advantage on Dexterity checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated.
+**Eagle’s Splendor.** 
+The target has advantage on Charisma checks.
+**Fox’s Cunning.** 
+The target has advantage on Intelligence checks.
+**Owl’s Wisdom.** 
+The target has advantage on Wisdom checks.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+
+==== Darkvision ====
+**Casting Time:** 1 action
+**Range**: Touch
+**Components**: V, S, M (either a pinch of dried carrot or an agate)
+**Duration**: 8 hours
+You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet.
 
 ==== Cordon of Arrows ====
 **Casting Time:** 1 action

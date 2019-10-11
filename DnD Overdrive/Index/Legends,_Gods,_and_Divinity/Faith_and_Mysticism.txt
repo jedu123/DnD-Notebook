@@ -1,0 +1,55 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-27T19:50:16-03:00
+
+====== Faith and Mysticism ======
+MC = Cult of Mysteries
+OC = Open Cult
+MO = Militar Order
+SO = Secret order
+ 
+	1. **Supreme Avatars (Pillars of Creation, Scions of Sanctum)**
+			a. Pillars of Creation
+				1. Seekers (SO)
+			b. Scions of Sanctum
+				1. Scholars of Sanctum (SO)
+
+	3. **Higher Divinities (Primordials, Aetherscions, Gods)**
+		a. Primordials
+			1. Order of the 7th Creator (SO)
+
+		b. Aetherscions
+		c. Gods
+			1. Church of Aerin (OC)+(MC), Spears of Aerin (MO)
+			2. School of Progress (OC), House of Progress (MC)
+			3. Cult of the Slumbering One (MC), Order of Awaking Dream (MO)	
+			4. Church of Skies (OC), House of Dusk and Dawn (MC), House of Eclipse (MO) 
+			5. Order of the Golden Soul (MC)+(MO)
+			6. Cult of Harvest (OC)+(MC), Guardians of the First Spring (SO)
+			7. Il-Recht, God of Laws and Justice - LN - Light
+			8. Al-Hisad, Goddess of Death and Silence - LN - 
+			9. Myrthos, God of Secrets and Discovery - TN - Knowledge, Trickery
+			10. Panna, Goddess of Passion and Love - TN - Life
+			11. Cernelus, God of Forests and Hunt - CN - Nature
+			12. Aenar, God of Paragons and Seas - CN - Tempest
+			13. Balan, God of Conquest, Patron of the Duskborn -LE - War
+			14. Ze-Henker, God of Vengeance and Desire- LE - 
+			15. Meriol, God of Lies and Survival - NE - Knowledge, Trickery
+			16. Jari, Goddess of Undeath and Decay - NE - 
+			17. Morion, Goddess of Calamity and Despair - CE - Tempest
+			18. Dorulgar, God of Monsters and Cruelty - CE - Nature
+ 
+	4. **Lesser Divinities (Demidivinities, Superior Animus, Primal Entities, Outsiders)**
+		a. Demidivinities
+		b. Superior Animus
+		c. Primal Entities
+		d. Outsiders
+
+	5. **Higher Mortals (Ascended Mortals, Mystical Beings, Immortals, Animus, Gatekeepers)**
+		a. Ascended Mortals
+		b. Mystical Beings
+		c. Immortals
+		d. Animus
+		e. Gatekeepers
+
+

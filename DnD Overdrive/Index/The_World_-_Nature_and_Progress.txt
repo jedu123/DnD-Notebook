@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-10T11:19:30-03:00
+
+====== The World - Nature and Progress ======
+
+===== The Shape of World =====
+Aerin is a vast continent, with something around 17 million square kilometres wholly charted. The ocean around it is hard to navigate thanks to supernatural reasons; therefore, even going to Padaro is especially challenging. It uses a perennial calendar, dividing the year in thirteen months of twenty-eight days each. 
+ In the past, when the Gods were present in our world, they fought each other to see who would rule the continent. This period became known as the Divine Clash. After millennia shaping the world and its history, they went to the Beyond, where the gods have their private sanctums. 
+ Their past presence left the aerinian with two distinct parallel religious systems; the common folk usually pray to the gods of their choice in the Pantheon while the followers of a specific deity are part of a Mystery Cult trying to emulate their god's steps. This world is also profoundly magical, with traces of the Words of Creation so present everywhere that everything has a soul, an Animus. People know how to use the most common magic items and understand the basics of animism.
+ After the Divine Clash, there was the Age of Strife, the frame of time where the clans and tribes began to unite under someone's banner and becoming kingdoms. After that came the Runnarian Invasion, an extraplanar threat that forced the countries to work together. Now the world lives through an age of peace and growth maintained by the League of Aerin.
+
+===== Timeflow Structure =====
+* Hours, minutes, and seconds are the same as ours
+* Days of 24 hours, with roughly 12 hours of daylight and 12 hours of nighttime. The exceptions are the solstices (longest and shortest days) and equinox (days with almost the same amount of light and darkness).
+* Weeks of 7 days, named: Suno (Sunday), Luno (Monday), Fajro (Tuesday), Akvo (Wednesday), Ligno (Thursday), Metalo (Friday), and Grundo (Saturday)
+* Years of 13 months, named: Unue, Dua, Triono, Kvara, Kvina, Sesa, Sepa, Oka, Naua, Deka, Dekunua, Dekdua, and Lasta. The year is closely related to the seasons with First of Unue being Naski's equinox.
+* There are four seasons, of 91 days each.
+	* Naski, beginning with the Day of Passage on First of Unue, the equinox that the gods went to the Beyond
+	* Kresko starts in Laboro, the longest day of the year, Eight of Kvara
+	* Rikolti that commences with another equinox supposed to lead to the Land of Shadows, Sixteen of Sepa
+	* Funebro, beginning on the shortest day of the year, Ripoz, Twenty-Four of Deka
+
+

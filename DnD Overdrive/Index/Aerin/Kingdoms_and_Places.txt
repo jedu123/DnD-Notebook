@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-01-14T15:57:26-03:00
 
 ====== Kingdoms and Places ======
-([[+Atlas|ATLAS HERE]])
+([[Atlas|ATLAS HERE]])
 
 1. [[+Etrin|Etrin]] (Mankind)
 2. [[+Dantarrim|Dantarrim]] (Dwarvenkind and Mountainfolk)

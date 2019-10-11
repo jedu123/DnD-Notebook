@@ -1,15 +1,35 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2019-01-08T16:28:34-03:00
+Creation-Date: 2019-09-27T10:51:06-03:00
 
-====== Aerinian Index ======
+====== Index Mundi ======
+The Index Mundi is the collective efforts of The Crafthouse, a secretive group of lorekeepers without a single hint of shame or ethics, to record all information that they have found about the world.
 
-The Aerinian Index is a commodity made by myself  to help me and my players to have quick access to information. Use at your own risk, and always take everything with a pinch of salt. If you change anything, please change the name of the archive and credit The Degenerate Crafthouse as the source.
+	1. [[+Legends, Gods, and Divinity|Legends, Gods, and Divinity]]
+		a. [[Index:Legends, Gods, and Divinity:Mapa Astralis Infinitum|Mapa Astralis Infinitum]]
+		b. [[Index:Legends, Gods, and Divinity:The Wicked, the Divine, and Everything Between|The Wicked, the Divine, and Everything Between]]
+		c. [[Index:Legends, Gods, and Divinity:Faith and Mysticism|Faith and Mysticism]]
+	2. [[+The World - Nature and Progress|The World - Nature and Progress]]
+		a. World Map
+	3. Civilizations - Growth and History
 
-1. [[+Aerin|Aerin]]
-2. [[+Classes|Classes]]
-3. [[+Backgrounds|Backgrounds]]
-4. Feats
-5. [[+Spells and Spell Lists|Spells and Spell Lists]]
-6. [[+Artifacts|Artifacts]]
-7. [[+Sources|Sources]]
+
+
+
+
+===== The Degenerates =====
+**Loremasters**
+Jeshua Oddwarden
+A. D. Goatherd
+Paulus, the Angry
+
+**Lorekeepers**
+Sor Andorius 
+Arisu, the Silent
+Atomos Cuniculus
+Carthus Lupus
+Punctum, the Goblin
+
+**Degenecrafter**
+[EXPUNGED] Sunshine
+Carthus Lupus
