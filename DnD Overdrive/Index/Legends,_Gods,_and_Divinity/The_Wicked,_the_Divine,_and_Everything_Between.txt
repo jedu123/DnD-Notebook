@@ -62,16 +62,20 @@ The Divine Rank, also known as Divine Hierarchy, organizes, and sorts existence 
  
 	4. **Lesser Divinities (Demidivinities, Superior Animus, Primal Entities, Outsiders)**
 		a. Demidivinities
-		b. Superior Animus
+		b. Animus
+			1. Argos - LG - 
 		c. Primal Entities
-		d. Outsiders
+			1. Gorefang - NE - Spirit of Predation
+		d. Material Gods
+		e. Patrons
+			1. Father-Wolf - TN - Nature
+		f. Outsiders
 
 	5. **Higher Mortals (Ascended Mortals, Mystical Beings, Immortals, Animus, Gatekeepers)**
 		a. Ascended Mortals
 		b. Mystical Beings
 		c. Immortals
-		d. Animus
-		e. Gatekeepers
+		d. Gatekeepers
  
 	6. **Mortal Beings (Everything else)**
 

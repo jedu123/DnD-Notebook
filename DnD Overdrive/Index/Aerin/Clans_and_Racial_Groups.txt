@@ -4,8 +4,8 @@ Creation-Date: 2019-01-15T13:35:40-03:00
 
 ====== Clans and Racial Groups ======
 
-	1. [[+Dragonblooded|Dragonblooded]]
-		a. Dragonborn
+	1. [[+Dragonblooded|Dragonblooded]] (Surovyj)
+		a. Dragonborn (Zachitnik)
 
 	2. [[+Dwarvenkind|Dwarvenkind]] (Zwerg)
 		a. Arctic Dwarf (Arktin)

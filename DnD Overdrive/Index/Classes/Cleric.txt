@@ -52,10 +52,10 @@ Usually Clerics are wise and resilient, trained to be the acting hand of their g
 **14				+5			Destroy Undead (CR 3)							5					4	 3	    3		3	2	    1		1	  -	     -		**
 **15				+5			-												5					4	 3	    3		3	2	    1		1	  1	     -	**
 **16				+5			Ability Score Improvement						5					4	 3	    3		3	2	    1		1	  1	     -		**
-**17				+6			Destroy Undead (CR 4), Divine Domain Feature		5					4	 3	    3		3	3	   2		1	  1	     1		**
-**18				+6			Channel Divinity (3/Rest)							5					4	 3	    3		3	3	   1		1	  1	     1		**
-**19				+6			Ability Score Improvement						5					4	 3	    3		3	3	   2		1	  1	     1		**
-**20				+6			Divine Intervention Improvement				5					4	 3	    3		3	3	   2		2	  1	     1		**
+**17				+6			Destroy Undead (CR 4), Divine Domain Feature		5					4	 3	    3		3	3	    2		1	  1	     1		**
+**18				+6			Channel Divinity (3/Rest)							5					4	 3	    3		3	3	    1		1	  1	     1		**
+**19				+6			Ability Score Improvement						5					4	 3	    3		3	3	    2		1	  1	     1		**
+**20				+6			Divine Intervention Improvement				5					4	 3	    3		3	3	    2		2	  1	     1		**
 
 
 ==== Spellcasting ====

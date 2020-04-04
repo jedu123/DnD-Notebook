@@ -9,12 +9,12 @@ Reference for languages and cultures
 ===== Languages =====
 
 * Ezor (Common) = English/Portuguese - https://www.lexico.com/en/ / https://www.linguee.com.br/
-* High Ezor (Academic Common) = Esperanto - https://en.bab.la/dictionary/english-esperanto/
+* High Ezor /(Academic Common) = Esperanto - https://en.bab.la/dictionary/english-esperanto/
 * Arcana (Spellcasting Language) = Latin - https://latin-dictionary.net/
 * Zwergg (Dwarvish) = German - https://www.dict.cc/?l=e
 * Teanga (Elvish) = Irish - https://www.focloir.ie/ ((Ulster Pronunciation))
 * Cainnt (Halfling/Gnome) = Gaelic - https://en.glosbe.com/en/gd/
-* Yazyk (Draconic) = Russian - https://en.bab.la/dictionary/russian-english/  // Cyrillic Script - https://www.omniglot.com/writing/cyrillic.htm
+* Yazyk (Draconic) = Russian - https://en.bab.la/dictionary/russian-english/  // Cyrillic Script - //https://www.lexilogos.com/keyboard/russian_conversion.htm
 * Nyelv (Orcish) = Hungarian - Google Translate
 
 ===== Cultures =====

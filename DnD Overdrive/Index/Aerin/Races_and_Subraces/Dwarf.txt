@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-08-02T19:52:45-03:00
 
-====== Dwarf ======
+====== Dwarf (Zwerg) ======
 
 ==== Ability Score Increase ====
 Con+2
