@@ -6,7 +6,7 @@ Creation-Date: 2019-08-02T19:50:28-03:00
 Although in different civilizations, some races come from the same racial tree. Therefore this page intends to group them in their stat block.
 
 * Dwarf
-* [[+Elf|Elf]]
+* Elf
 * [[+Halfling|Halfling]]
 * [[+Human|Human]]
 * [[+Dragonborn|Dragonborn]]

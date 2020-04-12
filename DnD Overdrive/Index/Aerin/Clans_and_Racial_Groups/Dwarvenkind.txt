@@ -3,33 +3,33 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-07-25T14:03:50-03:00
 
 ====== Dwarvenkind (Zwerg) ======
-Bold, stoic, loyal and hard are the dwarves. Valuing honesty and honour above all things, the dwarves are incapable of lying since their creation, therefore a dwarven promise is just as unbreakble as the mountains of Dantarrim. Their dedication to whatever craft they choose to pursue, allied to a long lifespan, made them famous warriors and artisans.
-A dwarf can reach close to 1,5m and weigh around 80kg. Their legs are short but powerful, and their arms are strong, ending in mighty and large hands. Their skins have tones of earth, and their hair is usually black, grey or brown, but sometimes there are dwarves with red or a metallic tint.
-A dwarvenkin can live up to 400 years old and can easily remember things that happened before their first century of life. It is not unheard of dwarves that held a grudge against generations of the same family, or that carried a friendship from father to son for centuries.
+Bold, stoic, loyal and hard are the dwarves. Valuing honesty and honor above all things, the dwarves are incapable of lying since their creation, therefore a dwarven promise is just as unbreakable as the mountains of Dantarrim. Their dedication to whatever craft they choose to pursue, allied to a long lifespan, made them famous warriors and artisans.
+ A dwarf can reach close to 1,5m and weigh around 80kg. Their legs are short but powerful, and their arms are strong, ending in mighty and large hands. Their skins have tones of earth, and their hair is usually black, grey or brown, but sometimes there are dwarves with red or a metallic tint.
+ A dwarvenkin can live up to 400 years old and can easily remember things that happened before their first century of life. It is not unheard of dwarves that held a grudge against generations of the same family, or that carried a friendship from father to son for centuries.
 
 ===== Dwarves and Names =====
 A dwarven name is composed of three parts: a common name, a clan name, and a deed name. Their parents give the first, usually based on portents or dwarven history, a sign of the bond between the newborn and the Great Clan.
-The second it is granted by a clan elder, per tradition. Every proper dwarven name has been used and reused down through the generations. A dwarf name belongs to the clan, not to the individual. A dwarf who misuses or brings shame to a clan name is stripped of it and forbidden by law to use any dwarven name in its place.
-Last, but not least, is the deed name, a name given by their peers, for things that the dwarf have done, akin to a title. Since they can't lie, this name is a brand on the dwarf's personal history.
+ The second is granted by a clan elder, per tradition. Every proper dwarven name has been used and reused down through the generations. A dwarf name belongs to the clan, not to the individual. A dwarf who misuses or brings shame to a clan name is stripped of it and forbidden by law to use any dwarven name in its place.
+ Last, but not least, is the deed name, a name given by their peers, for things that the dwarf have done, akin to a title. Since they can't lie, this name is a brand on the dwarf's personal history.
 
 ===== Clans and Realms =====
-The core unit of the //Zwerg// is the clan. Even away from their homes they will cherish their clan identities and affiliations, recognize allies and protect relatives. A group of clans is a Alliance, and the alliances are responsible to choose among its members who will occupy the chairs during the Great Meeting. Dwarves have no kings or emperors, it is expected that each clan is able to handle its own issues itself or in their own alliance. The dwarven territory is shared among the Alliances after a Meeting, that will share with the clans based on their needs. Arguments between chieftains over a plot of land or the access to a resource are quite common, and usually settled after first blood in single battle, mock wars or a crafting challenge. Traditionally, at the end both shall drink from the same keg and eat from the same plate, to remember that even after everything, they still allies.
-They respect the traditions of their clans, and don't abandon those traditions lightly. Wronging a dwarf is the same as wronging the entire clan, sometimes turning individual feuds to a full-scale clan war. Usually the youngsters seek guidance with their elders and are taught the clan's //Fähigkeit//, the kind of craft they favor. After initiated by one of the clan's //Meister//, they are expected to always deliver their very best and never stop improving.
+The core unit of the Zwerg is the clan. Even away from their homes they will cherish their clan identities and affiliations, recognize allies and protect relatives. A group of clans is an Alliance, and the alliances are responsible to choose among its members who will occupy the chairs during the Great Meeting. Dwarves have no kings or emperors, it is expected that each clan can handle its issues itself or in their alliance. The dwarven territory is shared among the Alliances after a Meeting, that will share with the clans based on their needs. Arguments between chieftains over a plot of land or the access to a resource are quite common, and usually settled after first blood in a single battle, mock wars or a crafting challenge. Traditionally, at the end both shall drink from the same keg and eat from the same plate, to remember that even after everything, they still allies.
+ They respect the traditions of their clans and don't abandon those traditions lightly. Wronging a dwarf is the same as an offense to the entire clan, sometimes turning individual feud into a full-scale clan war. Usually, the youngsters seek guidance with their elders and are taught the clan's Fähigkeit, the kind of craft they favor. After initiated by one of the clan's Meister, they are expected to always deliver their very best and never stop improving.
 
 
 
 {{.\23550836_716920511836186_6209079681406684564_o.jpg?width=400}}
 
-===== Dwarf Traits =====
+===== Dwarven Traits =====
 
 ==== Ability Score Increase ====
 Con+2
 
 ==== Age ====
-Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.
+Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live for about 350 years.
 
 ==== Alignment ====
-Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward neutrality as well, with a strong sense of honour and duty.
+Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward neutrality as well, with a strong sense of honor and duty.
 
 ==== Size ====
 Dwarves stand between 1.20 and 1.50 meters tall and are average about 80 kilograms. Your size is Medium.
@@ -38,13 +38,13 @@ Dwarves stand between 1.20 and 1.50 meters tall and are average about 80 kilogra
 Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
 
 ==== Darkvision ====
-Used to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were a bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of grey.
+Used to live underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of grey.
 
 ==== Dwarven Resilience ====
 The dwarven are stubborn people, even in their innards. You have advantage on saving throws against poison and diseases, and you have resistance against poison damage.
 
 ==== Dwarven Combat Training ====
-Dwarves are taught to always be ready to take up arm to defend their kin and land. Choose two of the following weapons to be proficient with: shortbows, spears, glaives, halberds, shields, and longswords.
+Dwarves are taught to always be ready to take up arms to defend their kin and land. Choose two of the following weapons to be proficient with: shortbows, spears, glaives, halberds, and shields.
 
 ==== Tool Proficiency ====
 Every dwarf knows a thing or two about handcrafts. You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.
@@ -70,7 +70,7 @@ Str+1
 You have Advantage on saving throws against the effects of cold. Besides, you are considered proficient in Survival checks in Arctic environments.
 
 === Hugen (Hill Dwarf) ===
-As a hugen, you have keen senses, deep intuition, and remarkable resilience. They are the most common subrace in Gijur, Durgora, and the inhabitants of the valley regions in Dantarrim. 
+As a hugen, you have keen senses, deep intuition, and remarkable resilience. They are the most common subrace in Gijur, Durgora, and the inhabitants of the valley regions in Dantarrim.
 
 == Ability Score Increase ==
 Wis+1
@@ -79,13 +79,13 @@ Wis+1
 Your hit points maximum increases by 1, and it increases by 1 every time you gain a level.
 
 === Bergen (Mountain Dwarf) ===
-As a bergen, you're strong and hardy, accustomed to a difficult life in rugged terrain. You're probably on the tall side (for a dwarf) and tend toward lighter colouration. Bergens are the most common kind of dwarf found in Dantarrim.
+As a bergen, you're strong and hardy, accustomed to a difficult life in rugged terrain. You're probably on the tall side (for a dwarf) and tend toward lighter coloration. Bergens are the most common kind of dwarf found in Dantarrim.
 
 == Ability Score Increase ==
 Str+2
 
 == Dwarven Armor Training ==
-You have proficiency with light and medium armour.
+You have proficiency with light and medium armor.
 
 
 
