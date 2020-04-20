@@ -17,7 +17,6 @@ SO = Secret order
 	3. **Higher Divinities (Primordials, Aetherscions, Gods)**
 		a. Primordials
 			1. Order of the 7th Creator (SO)
-
 		b. Aetherscions
 		c. Gods
 			1. Church of Aerin (OC)+(MC), Spears of Aerin (MO)
@@ -41,15 +40,17 @@ SO = Secret order
  
 	4. **Lesser Divinities (Demidivinities, Superior Animus, Primal Entities, Outsiders)**
 		a. Demidivinities
-		b. Superior Animus
+		b. Animus
 		c. Primal Entities
-		d. Outsiders
+		d. Material Gods
+		e. Patrons
+		f. Outsiders
 
 	5. **Higher Mortals (Ascended Mortals, Mystical Beings, Immortals, Animus, Gatekeepers)**
 		a. Ascended Mortals
 		b. Mystical Beings
 		c. Immortals
-		d. Animus
-		e. Gatekeepers
-
+		d. Gatekeepers
+ 
+	6. **Mortal Beings (Everything else)**
 
